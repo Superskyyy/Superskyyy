@@ -3,7 +3,7 @@
 
 🔭 2021 Summer of Code @ [Apache SkyWalking](https://github.com/apache/skywalking)
 
-🔭 Contributor @ [Apache SkyWalking Ecosystem](https://skywalking.apache.org/) 
+🔭 Proud Contributor @ [Apache SkyWalking Ecosystem](https://skywalking.apache.org/) 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Superskyyy)](https://git.io/streak-stats)
 
