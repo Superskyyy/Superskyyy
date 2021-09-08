@@ -1,9 +1,9 @@
 <!--Introduction -->
 <h1 align="center">Hi 👋, I'm Superskyyy</h1>
 
-🔭 2021 Summer of Code @ [Apache SkyWalking](https://github.com/apache/skywalking)
+:bow_and_arrow: 2021 Summer of Code @ [Apache SkyWalking](https://github.com/apache/skywalking)
 
-🔭 Proud Contributor @ [Apache SkyWalking Ecosystem](https://skywalking.apache.org/) 
+:hammer_and_wrench:	 Proud Contributor @ [Apache SkyWalking Ecosystem](https://skywalking.apache.org/) 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Superskyyy)](https://git.io/streak-stats)
 
