@@ -7,6 +7,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Superskyyy)](https://git.io/streak-stats)
 
+[![GitHub Thaiane](https://img.shields.io/github/followers/Superskyyy?label=follow&style=social)](https://github.com/Thaiane)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Superskyyy)](https://badges.pufler.dev)
+
 ---
 
 ### :zap: Recent Activity
