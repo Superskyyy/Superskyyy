@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7682](https://github.com/apache/skywalking/issues/7682) in [apache/skywalking](https://github.com/apache/skywalking)
-2. 🗣 Commented on [#7708](https://github.com/apache/skywalking/issues/7708) in [apache/skywalking](https://github.com/apache/skywalking)
-3. 🗣 Commented on [#7708](https://github.com/apache/skywalking/issues/7708) in [apache/skywalking](https://github.com/apache/skywalking)
-4. ❗️ Opened issue [#7708](https://github.com/apache/skywalking/issues/7708) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🗣 Commented on [#332](https://github.com/apache/skywalking-website/issues/332) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+1. 🗣 Commented on [#7701](https://github.com/apache/skywalking/issues/7701) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 🗣 Commented on [#7701](https://github.com/apache/skywalking/issues/7701) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 🗣 Commented on [#7701](https://github.com/apache/skywalking/issues/7701) in [apache/skywalking](https://github.com/apache/skywalking)
+4. 🗣 Commented on [#7682](https://github.com/apache/skywalking/issues/7682) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#7708](https://github.com/apache/skywalking/issues/7708) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 ---
