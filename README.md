@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#10](https://github.com/Superskyyy/skywalking-python/pull/10) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
-2. ❌ Closed PR [#9](https://github.com/Superskyyy/skywalking-python/pull/9) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
-3. 🗣 Commented on [#165](https://github.com/apache/skywalking-python/issues/165) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+1. 💪 Opened PR [#1](https://github.com/Superskyyy/apisix/pull/1) in [Superskyyy/apisix](https://github.com/Superskyyy/apisix)
+2. ❌ Closed PR [#10](https://github.com/Superskyyy/skywalking-python/pull/10) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
+3. ❌ Closed PR [#9](https://github.com/Superskyyy/skywalking-python/pull/9) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
 4. 🗣 Commented on [#165](https://github.com/apache/skywalking-python/issues/165) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
 5. 🗣 Commented on [#165](https://github.com/apache/skywalking-python/issues/165) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
 <!--END_SECTION:activity-->
