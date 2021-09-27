@@ -17,8 +17,8 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5101](https://github.com/apache/apisix/issues/5101) in [apache/apisix](https://github.com/apache/apisix)
 2. 🗣 Commented on [#5101](https://github.com/apache/apisix/issues/5101) in [apache/apisix](https://github.com/apache/apisix)
-3. 💪 Opened PR [#11](https://github.com/Superskyyy/skywalking-python/pull/11) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
-4. 🗣 Commented on [#7572](https://github.com/apache/skywalking/issues/7572) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 🗣 Commented on [#5101](https://github.com/apache/apisix/issues/5101) in [apache/apisix](https://github.com/apache/apisix)
+4. 💪 Opened PR [#11](https://github.com/Superskyyy/skywalking-python/pull/11) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
 5. 🗣 Commented on [#7572](https://github.com/apache/skywalking/issues/7572) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
