@@ -5,6 +5,23 @@
 
 :hammer_and_wrench:	 Proud Contributor @ [Apache SkyWalking Ecosystem](https://skywalking.apache.org/) 
 
+### Current Task List
+
+#### SkyWalking-Python
+- [ ] Total cleanup for 1.0.0 GA - working on it
+- [ ] Add missing plugin tests - working on it
+- [ ] https://github.com/apache/skywalking-python/pull/167#discussion_r732387359 - pending
+- [ ] E2E testing - pending
+- [ ] Automated PyPI test matrix and doc generation - pending
+- [ ] Deprecate Python 3.6 ETA Dec.23rd 2021 - pending
+
+#### SkyWalking-SWCK
+- [ ] Python Agent Injector - working on it
+
+#### SkyWalking
+- [ ] PagerDuty Alarm - working on it
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Superskyyy)](https://git.io/streak-stats)
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/Superskyyy?label=follow&style=social)](https://github.com/Superskyyy)
