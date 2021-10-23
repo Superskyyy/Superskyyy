@@ -33,10 +33,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#172](https://github.com/apache/skywalking-python/issues/172) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-2. 🗣 Commented on [#172](https://github.com/apache/skywalking-python/issues/172) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+2. 🗣 Commented on [#173](https://github.com/apache/skywalking-python/issues/173) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
 3. 🗣 Commented on [#172](https://github.com/apache/skywalking-python/issues/172) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-4. ❌ Closed PR [#172](https://github.com/apache/skywalking-python/pull/172) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-5. 💪 Opened PR [#172](https://github.com/apache/skywalking-python/pull/172) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+4. 🗣 Commented on [#172](https://github.com/apache/skywalking-python/issues/172) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+5. 🗣 Commented on [#172](https://github.com/apache/skywalking-python/issues/172) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
 <!--END_SECTION:activity-->
 
 ---
