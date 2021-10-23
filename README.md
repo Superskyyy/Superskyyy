@@ -32,9 +32,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#171](https://github.com/apache/skywalking-python/issues/171) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-2. 🗣 Commented on [#171](https://github.com/apache/skywalking-python/issues/171) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-3. 🗣 Commented on [#171](https://github.com/apache/skywalking-python/issues/171) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+1. 🗣 Commented on [#172](https://github.com/apache/skywalking-python/issues/172) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+2. ❌ Closed PR [#172](https://github.com/apache/skywalking-python/pull/172) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+3. 💪 Opened PR [#172](https://github.com/apache/skywalking-python/pull/172) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
 4. 🗣 Commented on [#171](https://github.com/apache/skywalking-python/issues/171) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
 5. 🗣 Commented on [#171](https://github.com/apache/skywalking-python/issues/171) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
 <!--END_SECTION:activity-->
