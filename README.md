@@ -32,11 +32,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#174](https://github.com/apache/skywalking-python/pull/174) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-2. 🗣 Commented on [#1](https://github.com/Superskyyy/sw-community/issues/1) in [Superskyyy/sw-community](https://github.com/Superskyyy/sw-community)
-3. 💪 Opened PR [#21](https://github.com/Superskyyy/skywalking-python/pull/21) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
-4. ❌ Closed PR [#20](https://github.com/Superskyyy/skywalking-python/pull/20) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
-5. 💪 Opened PR [#20](https://github.com/Superskyyy/skywalking-python/pull/20) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
+1. 💪 Opened PR [#348](https://github.com/apache/skywalking-website/pull/348) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+2. 💪 Opened PR [#174](https://github.com/apache/skywalking-python/pull/174) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+3. 🗣 Commented on [#1](https://github.com/Superskyyy/sw-community/issues/1) in [Superskyyy/sw-community](https://github.com/Superskyyy/sw-community)
+4. 💪 Opened PR [#21](https://github.com/Superskyyy/skywalking-python/pull/21) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
+5. ❌ Closed PR [#20](https://github.com/Superskyyy/skywalking-python/pull/20) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
 <!--END_SECTION:activity-->
 
 ---
