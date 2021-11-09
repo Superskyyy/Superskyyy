@@ -8,7 +8,7 @@
 ### Current Task List
 
 #### SkyWalking-Python
-- [ ] Total cleanup for 1.0.0 GA - working on it
+- [ ] Total cleanup for 1.0.0 GA - full e2e needed before releasing
 - [ ] Add missing plugin tests - working on it
 - [ ] https://github.com/apache/skywalking-python/pull/167#discussion_r732387359 - pending
 - [ ] E2E testing - pending
