@@ -32,11 +32,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Superskyyy/skywalking/pull/1) in [Superskyyy/skywalking](https://github.com/Superskyyy/skywalking)
-2. 💪 Opened PR [#355](https://github.com/apache/skywalking-website/pull/355) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
-3. 💪 Opened PR [#1](https://github.com/apache/skywalking-showcase/pull/1) in [apache/skywalking-showcase](https://github.com/apache/skywalking-showcase)
-4. 🗣 Commented on [#7084](https://github.com/apache/skywalking/issues/7084) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🗣 Commented on [#352](https://github.com/apache/skywalking-website/issues/352) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+1. 🗣 Commented on [#60](https://github.com/SkyAPM/document-cn-translation-of-skywalking/issues/60) in [SkyAPM/document-cn-translation-of-skywalking](https://github.com/SkyAPM/document-cn-translation-of-skywalking)
+2. 💪 Opened PR [#1](https://github.com/Superskyyy/skywalking/pull/1) in [Superskyyy/skywalking](https://github.com/Superskyyy/skywalking)
+3. 💪 Opened PR [#355](https://github.com/apache/skywalking-website/pull/355) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+4. 💪 Opened PR [#1](https://github.com/apache/skywalking-showcase/pull/1) in [apache/skywalking-showcase](https://github.com/apache/skywalking-showcase)
+5. 🗣 Commented on [#7084](https://github.com/apache/skywalking/issues/7084) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 ---
