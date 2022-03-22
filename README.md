@@ -26,6 +26,10 @@
 #### SkyWalking
 - [ ] PagerDuty Alarm - working on it
 
+#### Ideas
+
+- SkyWalking integration with Nonebot2
+- CHAOSS analysis of SkyWalking ecosystem
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Superskyyy)](https://git.io/streak-stats)
 
