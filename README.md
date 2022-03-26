@@ -10,7 +10,7 @@
 ### Current Task List
 
 #### SkyWalking-Python
-- [ ] E2E testing for trace, log, profiling - Priority 1
+- [x] E2E testing for trace, log, profiling - Priority 1
 - [ ] Credentials filtering to optional; default to off (performance).
 - [ ] Total cleanup for 1.0.0 GA - full e2e needed before releasing
 
@@ -18,7 +18,7 @@
 - [ ] Rewrite web framework plugins with middleware, not monkey patch.
 - [ ] https://github.com/apache/skywalking-python/pull/167#discussion_r732387359 - pending
 - [ ] Automated PyPI test matrix and doc generation - low priority
-- [ ] Deprecate Python 3.6 ETA Dec.23rd 2021 - pending
+- [ ] Deprecate Python 3.6 ETA Dec.23rd 2021 - extending to mid 2022
 
 #### SkyWalking-SWCK
 - [ ] Python Agent Injector - working on it
