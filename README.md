@@ -11,6 +11,7 @@
 
 #### SkyWalking-Python
 - [x] E2E testing for trace, log, profiling - Priority 1
+- [ ] change from kafka/kafka-python to confluent-kafka. 
 - [ ] Credentials filtering to optional; default to off (performance).
 - [ ] Total cleanup for 1.0.0 GA - full e2e needed before releasing
 
