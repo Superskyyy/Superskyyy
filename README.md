@@ -1,11 +1,11 @@
 <!--Introduction -->
 <h1 align="center">Hi 👋, I'm Superskyyy</h1>
 
-**Away at the time, end of semester.**
+![](https://komarev.com/ghpvc/?username=Superskyyy&color=blueviolet)
 
 :bow_and_arrow: 2021 Summer of Code @ [Apache SkyWalking](https://github.com/apache/skywalking)
 
-:hammer_and_wrench:	 Proud Contributor @ [Apache SkyWalking Ecosystem](https://skywalking.apache.org/) 
+:hammer_and_wrench:	 Proud Committer @ [Apache SkyWalking Ecosystem](https://skywalking.apache.org/) 
 
 ### Current Task List
 
