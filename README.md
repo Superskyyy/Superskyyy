@@ -42,9 +42,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#411](https://github.com/apache/skywalking-website/issues/411) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+1. 💪 Opened PR [#430](https://github.com/apache/skywalking-website/pull/430) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
 2. 🗣 Commented on [#411](https://github.com/apache/skywalking-website/issues/411) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
-3. 🗣 Commented on [#8854](https://github.com/apache/skywalking/issues/8854) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 🗣 Commented on [#411](https://github.com/apache/skywalking-website/issues/411) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
 4. 🗣 Commented on [#8854](https://github.com/apache/skywalking/issues/8854) in [apache/skywalking](https://github.com/apache/skywalking)
 5. 🗣 Commented on [#8854](https://github.com/apache/skywalking/issues/8854) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
