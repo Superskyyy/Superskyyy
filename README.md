@@ -42,11 +42,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8920](https://github.com/apache/skywalking/issues/8920) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 🗣 Commented on [#8854](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/8854) in [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
 2. 🗣 Commented on [#8920](https://github.com/apache/skywalking/issues/8920) in [apache/skywalking](https://github.com/apache/skywalking)
-3. 🗣 Commented on [#7319](https://github.com/apache/skywalking/issues/7319) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 🗣 Commented on [#8894](https://github.com/apache/skywalking/issues/8894) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 💪 Opened PR [#43](https://github.com/Superskyyy/skywalking-python/pull/43) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
+3. 🗣 Commented on [#8920](https://github.com/apache/skywalking/issues/8920) in [apache/skywalking](https://github.com/apache/skywalking)
+4. 🗣 Commented on [#7319](https://github.com/apache/skywalking/issues/7319) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#8894](https://github.com/apache/skywalking/issues/8894) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 ---
