@@ -42,11 +42,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#199](https://github.com/tcort/markdown-link-check/issues/199) in [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check)
-2. ❌ Closed PR [#202](https://github.com/apache/skywalking-python/pull/202) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-3. 💪 Opened PR [#8935](https://github.com/apache/skywalking/pull/8935) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 🗣 Commented on [#8854](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/8854) in [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
-5. 🗣 Commented on [#8920](https://github.com/apache/skywalking/issues/8920) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 🗣 Commented on [#5596](https://github.com/refined-github/refined-github/issues/5596) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+2. 🎉 Merged PR [#43](https://github.com/Superskyyy/skywalking-python/pull/43) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
+3. 💪 Opened PR [#203](https://github.com/apache/skywalking-python/pull/203) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+4. 🗣 Commented on [#5596](https://github.com/refined-github/refined-github/issues/5596) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+5. 🎉 Merged PR [#75](https://github.com/apache/skywalking-infra-e2e/pull/75) in [apache/skywalking-infra-e2e](https://github.com/apache/skywalking-infra-e2e)
 <!--END_SECTION:activity-->
 
 ---
