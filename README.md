@@ -3,7 +3,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Superskyyy&color=blueviolet)
 
-:bow_and_arrow: 2021 Summer of Code @ [Apache SkyWalking](https://github.com/apache/skywalking)
+:bow_and_arrow: Mentor of 2022 Summer of Code @ [Apache SkyWalking](https://github.com/apache/skywalking)
+
+:bow_and_arrow: Student of 2021 Summer of Code @ [Apache SkyWalking](https://github.com/apache/skywalking)
 
 :hammer_and_wrench:	 Proud Committer @ [Apache SkyWalking Ecosystem](https://skywalking.apache.org/) 
 
@@ -11,7 +13,8 @@
 
 #### SkyWalking-Python
 - [x] E2E testing for trace, log - Priority 1 merged
-- [ ] change from kafka/kafka-python to confluent-kafka. 
+- [ ] Change from kafka/kafka-python to confluent-kafka. 
+- [ ] Support automatic postfork agent startup
 - [x] Credentials filtering to optional; default to off (performance).
 - [ ] Total cleanup for 1.0.0 GA - full e2e needed before releasing
 - [ ] E2E testing for profiling, enforce e2e cases for new features.
@@ -25,7 +28,8 @@
 - [ ] Python Agent Injector - Priority 1
 
 #### SkyWalking
-- [ ] PagerDuty Alarm - working on it
+- [ ] MLOps pipeline
+- [ ] PagerDuty
 
 #### Ideas
 
