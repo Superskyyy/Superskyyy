@@ -1,15 +1,14 @@
 <!--Introduction -->
 <h1 align="center">Hi 👋, I'm Superskyyy</h1>
 
+![跳跃](https://user-images.githubusercontent.com/26076517/165435948-75aec3ee-8f54-423c-82b2-1b1ab0cafe2d.gif)
 ![](https://komarev.com/ghpvc/?username=Superskyyy&color=blueviolet)
 
 :bow_and_arrow: Mentor of 2022 Summer of Code @ [Apache SkyWalking](https://github.com/apache/skywalking)
 
 :bow_and_arrow: Student of 2021 Summer of Code @ [Apache SkyWalking](https://github.com/apache/skywalking)
 
-:hammer_and_wrench:	 Proud Committer @ [Apache SkyWalking Ecosystem](https://skywalking.apache.org/) 
-
-### Current Task List
+### Task List
 
 #### SkyWalking-Python
 - [x] E2E testing for trace, log - Priority 1 merged
