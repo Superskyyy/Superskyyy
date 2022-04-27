@@ -18,10 +18,8 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### Task List
 
 #### SkyWalking-Python
-- [x] E2E testing for trace, log - Priority 1 merged
 - [ ] Change from kafka/kafka-python to confluent-kafka. 
 - [ ] Support automatic postfork agent startup
-- [x] Credentials filtering to optional; default to off (performance).
 - [ ] Total cleanup for 1.0.0 GA
 - [ ] E2E testing for profiling, enforce e2e cases for new features.
 - [ ] Rewrite monkey patch with Wrapt. - low priority
