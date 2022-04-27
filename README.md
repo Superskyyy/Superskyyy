@@ -1,8 +1,9 @@
 <!--Introduction -->
 <h1 align="center">Hi 👋, I'm Superskyyy</h1>
 
-![跳跃](https://user-images.githubusercontent.com/26076517/165435948-75aec3ee-8f54-423c-82b2-1b1ab0cafe2d.gif)
-![](https://komarev.com/ghpvc/?username=Superskyyy&color=blueviolet)
+<!-- ![跳跃](https://user-images.githubusercontent.com/26076517/165435948-75aec3ee-8f54-423c-82b2-1b1ab0cafe2d.gif) -->
+
+![闹钟](https://user-images.githubusercontent.com/26076517/165437809-109452ab-334f-42b3-acf5-aa902e883f97.GIF) ![](https://komarev.com/ghpvc/?username=Superskyyy&color=blueviolet)
 
 :bow_and_arrow: Mentor of 2022 Open Source Promotion Plan (OSPP) @ [Apache SkyWalking](https://github.com/apache/skywalking)
 
