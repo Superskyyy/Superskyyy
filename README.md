@@ -4,7 +4,13 @@
 ![跳跃](https://user-images.githubusercontent.com/26076517/165435948-75aec3ee-8f54-423c-82b2-1b1ab0cafe2d.gif)
 ![](https://komarev.com/ghpvc/?username=Superskyyy&color=blueviolet)
 
-:bow_and_arrow: Mentor of 2022 Summer of Code @ [Apache SkyWalking](https://github.com/apache/skywalking)
+:bow_and_arrow: Mentor of 2022 Open Source Promotion Plan (OSPP) @ [Apache SkyWalking](https://github.com/apache/skywalking)
+
+Of the project `Exploration of Advanced Metrics Anomaly Detection & Alerts with Machine Learning in Apache SkyWalking`								
+
+:bow_and_arrow: Co-mentor of 2022 Google Summer of Code (GSOC) @ [Apache SkyWalking](https://github.com/apache/skywalking)
+
+Of the project `Log Outlier Detection in Apache SkyWalking`								
 
 :bow_and_arrow: Student of 2021 Summer of Code @ [Apache SkyWalking](https://github.com/apache/skywalking)
 
@@ -15,10 +21,10 @@
 - [ ] Change from kafka/kafka-python to confluent-kafka. 
 - [ ] Support automatic postfork agent startup
 - [x] Credentials filtering to optional; default to off (performance).
-- [ ] Total cleanup for 1.0.0 GA - full e2e needed before releasing
+- [ ] Total cleanup for 1.0.0 GA
 - [ ] E2E testing for profiling, enforce e2e cases for new features.
 - [ ] Rewrite monkey patch with Wrapt. - low priority
-- [ ] Rewrite web framework plugins with middleware, not monkey patch.
+- [ ] Rewrite web framework plugins with middleware.
 - [ ] https://github.com/apache/skywalking-python/pull/167#discussion_r732387359 - pending
 - [ ] Automated PyPI test matrix and doc generation - low priority
 - [ ] Deprecate Python 3.6 ETA Dec.23rd 2021 - extending to mid 2022
