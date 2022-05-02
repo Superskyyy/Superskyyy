@@ -52,11 +52,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24361](https://github.com/ray-project/ray/issues/24361) in [ray-project/ray](https://github.com/ray-project/ray)
-2. 🗣 Commented on [#9725](https://github.com/apache/dolphinscheduler/issues/9725) in [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler)
-3. 💪 Opened PR [#206](https://github.com/apache/skywalking-python/pull/206) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-4. 💪 Opened PR [#8974](https://github.com/apache/skywalking/pull/8974) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🗣 Commented on [#7](https://github.com/colesbury/nogil/issues/7) in [colesbury/nogil](https://github.com/colesbury/nogil)
+1. 🎉 Merged PR [#4](https://github.com/Superskyyy/aiops-engine-for-skywalking/pull/4) in [Superskyyy/aiops-engine-for-skywalking](https://github.com/Superskyyy/aiops-engine-for-skywalking)
+2. 💪 Opened PR [#4](https://github.com/Superskyyy/aiops-engine-for-skywalking/pull/4) in [Superskyyy/aiops-engine-for-skywalking](https://github.com/Superskyyy/aiops-engine-for-skywalking)
+3. 🎉 Merged PR [#3](https://github.com/Superskyyy/aiops-engine-for-skywalking/pull/3) in [Superskyyy/aiops-engine-for-skywalking](https://github.com/Superskyyy/aiops-engine-for-skywalking)
+4. 💪 Opened PR [#3](https://github.com/Superskyyy/aiops-engine-for-skywalking/pull/3) in [Superskyyy/aiops-engine-for-skywalking](https://github.com/Superskyyy/aiops-engine-for-skywalking)
+5. 🎉 Merged PR [#2](https://github.com/Superskyyy/sw-aiops-engine/pull/2) in [Superskyyy/sw-aiops-engine](https://github.com/Superskyyy/sw-aiops-engine)
 <!--END_SECTION:activity-->
 
 ---
