@@ -5,6 +5,8 @@
 
 ![闹钟](https://user-images.githubusercontent.com/26076517/165437809-109452ab-334f-42b3-acf5-aa902e883f97.GIF) ![](https://komarev.com/ghpvc/?username=Superskyyy&color=blueviolet)
 
+https://github.com/Superskyyy/sw-aiops-engine
+
 :bow_and_arrow: Mentor of 2022 Open Source Promotion Plan (OSPP) @ [Apache SkyWalking](https://github.com/apache/skywalking)
 
 Of the project `Exploration of Advanced Metrics Anomaly Detection & Alerts with Machine Learning in Apache SkyWalking`								
@@ -32,7 +34,7 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 - [ ] Python Agent Injector - Priority 1
 
 #### SkyWalking
-- [ ] MLOps pipeline
+- [ ] AIOps pipeline https://github.com/Superskyyy/sw-aiops-engine
 - [ ] PagerDuty
 
 #### Ideas
