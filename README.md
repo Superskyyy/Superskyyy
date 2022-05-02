@@ -50,11 +50,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9725](https://github.com/apache/dolphinscheduler/issues/9725) in [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler)
-2. 💪 Opened PR [#206](https://github.com/apache/skywalking-python/pull/206) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-3. 💪 Opened PR [#8974](https://github.com/apache/skywalking/pull/8974) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 🗣 Commented on [#7](https://github.com/colesbury/nogil/issues/7) in [colesbury/nogil](https://github.com/colesbury/nogil)
-5. 🗣 Commented on [#2872](https://github.com/apache/skywalking/issues/2872) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 🗣 Commented on [#24361](https://github.com/ray-project/ray/issues/24361) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🗣 Commented on [#9725](https://github.com/apache/dolphinscheduler/issues/9725) in [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler)
+3. 💪 Opened PR [#206](https://github.com/apache/skywalking-python/pull/206) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+4. 💪 Opened PR [#8974](https://github.com/apache/skywalking/pull/8974) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#7](https://github.com/colesbury/nogil/issues/7) in [colesbury/nogil](https://github.com/colesbury/nogil)
 <!--END_SECTION:activity-->
 
 ---
