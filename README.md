@@ -52,11 +52,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Superskyyy/aiops-engine-for-skywalking/pull/4) in [Superskyyy/aiops-engine-for-skywalking](https://github.com/Superskyyy/aiops-engine-for-skywalking)
-2. 💪 Opened PR [#4](https://github.com/Superskyyy/aiops-engine-for-skywalking/pull/4) in [Superskyyy/aiops-engine-for-skywalking](https://github.com/Superskyyy/aiops-engine-for-skywalking)
-3. 🎉 Merged PR [#3](https://github.com/Superskyyy/aiops-engine-for-skywalking/pull/3) in [Superskyyy/aiops-engine-for-skywalking](https://github.com/Superskyyy/aiops-engine-for-skywalking)
-4. 💪 Opened PR [#3](https://github.com/Superskyyy/aiops-engine-for-skywalking/pull/3) in [Superskyyy/aiops-engine-for-skywalking](https://github.com/Superskyyy/aiops-engine-for-skywalking)
-5. 🎉 Merged PR [#2](https://github.com/Superskyyy/sw-aiops-engine/pull/2) in [Superskyyy/sw-aiops-engine](https://github.com/Superskyyy/sw-aiops-engine)
+1. 💪 Opened PR [#5](https://github.com/Superskyyy/skywalking/pull/5) in [Superskyyy/skywalking](https://github.com/Superskyyy/skywalking)
+2. ❌ Closed PR [#44](https://github.com/Superskyyy/skywalking-python/pull/44) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
+3. 💪 Opened PR [#44](https://github.com/Superskyyy/skywalking-python/pull/44) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
+4. ❌ Closed PR [#207](https://github.com/apache/skywalking-python/pull/207) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+5. 💪 Opened PR [#207](https://github.com/apache/skywalking-python/pull/207) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
 <!--END_SECTION:activity-->
 
 ---
