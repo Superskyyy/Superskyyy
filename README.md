@@ -52,11 +52,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/Superskyyy/skywalking/pull/5) in [Superskyyy/skywalking](https://github.com/Superskyyy/skywalking)
-2. 💪 Opened PR [#6](https://github.com/Superskyyy/skywalking/pull/6) in [Superskyyy/skywalking](https://github.com/Superskyyy/skywalking)
-3. 🗣 Commented on [#107](https://github.com/micromatch/picomatch/issues/107) in [micromatch/picomatch](https://github.com/micromatch/picomatch)
-4. 🗣 Commented on [#107](https://github.com/micromatch/picomatch/issues/107) in [micromatch/picomatch](https://github.com/micromatch/picomatch)
-5. ❗️ Opened issue [#135](https://github.com/dorny/paths-filter/issues/135) in [dorny/paths-filter](https://github.com/dorny/paths-filter)
+1. 💪 Opened PR [#7](https://github.com/Superskyyy/skywalking/pull/7) in [Superskyyy/skywalking](https://github.com/Superskyyy/skywalking)
+2. ❌ Closed PR [#6](https://github.com/Superskyyy/skywalking/pull/6) in [Superskyyy/skywalking](https://github.com/Superskyyy/skywalking)
+3. 🎉 Merged PR [#8982](https://github.com/apache/skywalking/pull/8982) in [apache/skywalking](https://github.com/apache/skywalking)
+4. 🗣 Commented on [#5596](https://github.com/refined-github/refined-github/issues/5596) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+5. 💪 Opened PR [#8982](https://github.com/apache/skywalking/pull/8982) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 ---
