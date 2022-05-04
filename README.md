@@ -52,11 +52,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Superskyyy/skywalking/pull/5) in [Superskyyy/skywalking](https://github.com/Superskyyy/skywalking)
-2. ❌ Closed PR [#44](https://github.com/Superskyyy/skywalking-python/pull/44) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
-3. 💪 Opened PR [#44](https://github.com/Superskyyy/skywalking-python/pull/44) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
-4. ❌ Closed PR [#207](https://github.com/apache/skywalking-python/pull/207) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-5. 💪 Opened PR [#207](https://github.com/apache/skywalking-python/pull/207) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+1. ❌ Closed PR [#5](https://github.com/Superskyyy/skywalking/pull/5) in [Superskyyy/skywalking](https://github.com/Superskyyy/skywalking)
+2. 💪 Opened PR [#6](https://github.com/Superskyyy/skywalking/pull/6) in [Superskyyy/skywalking](https://github.com/Superskyyy/skywalking)
+3. 🗣 Commented on [#107](https://github.com/micromatch/picomatch/issues/107) in [micromatch/picomatch](https://github.com/micromatch/picomatch)
+4. 🗣 Commented on [#107](https://github.com/micromatch/picomatch/issues/107) in [micromatch/picomatch](https://github.com/micromatch/picomatch)
+5. ❗️ Opened issue [#135](https://github.com/dorny/paths-filter/issues/135) in [dorny/paths-filter](https://github.com/dorny/paths-filter)
 <!--END_SECTION:activity-->
 
 ---
