@@ -52,11 +52,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8993](https://github.com/apache/skywalking/issues/8993) in [apache/skywalking](https://github.com/apache/skywalking)
-2. 💪 Opened PR [#7](https://github.com/Superskyyy/skywalking/pull/7) in [Superskyyy/skywalking](https://github.com/Superskyyy/skywalking)
-3. ❌ Closed PR [#6](https://github.com/Superskyyy/skywalking/pull/6) in [Superskyyy/skywalking](https://github.com/Superskyyy/skywalking)
-4. 🎉 Merged PR [#8982](https://github.com/apache/skywalking/pull/8982) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🗣 Commented on [#5596](https://github.com/refined-github/refined-github/issues/5596) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+1. 🗣 Commented on [#9725](https://github.com/apache/dolphinscheduler/issues/9725) in [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler)
+2. 🗣 Commented on [#9725](https://github.com/apache/dolphinscheduler/issues/9725) in [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler)
+3. 🗣 Commented on [#8993](https://github.com/apache/skywalking/issues/8993) in [apache/skywalking](https://github.com/apache/skywalking)
+4. 💪 Opened PR [#7](https://github.com/Superskyyy/skywalking/pull/7) in [Superskyyy/skywalking](https://github.com/Superskyyy/skywalking)
+5. ❌ Closed PR [#6](https://github.com/Superskyyy/skywalking/pull/6) in [Superskyyy/skywalking](https://github.com/Superskyyy/skywalking)
 <!--END_SECTION:activity-->
 
 ---
