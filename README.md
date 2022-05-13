@@ -52,11 +52,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/CloudWise-OpenSource/GAIA-DataSet/issues/7) in [CloudWise-OpenSource/GAIA-DataSet](https://github.com/CloudWise-OpenSource/GAIA-DataSet)
-2. 🗣 Commented on [#7](https://github.com/CloudWise-OpenSource/GAIA-DataSet/issues/7) in [CloudWise-OpenSource/GAIA-DataSet](https://github.com/CloudWise-OpenSource/GAIA-DataSet)
-3. 🗣 Commented on [#9047](https://github.com/apache/skywalking/issues/9047) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 🗣 Commented on [#32](https://github.com/apache/skywalking-showcase/issues/32) in [apache/skywalking-showcase](https://github.com/apache/skywalking-showcase)
-5. ❗️ Opened issue [#7](https://github.com/CloudWise-OpenSource/GAIA-DataSet/issues/7) in [CloudWise-OpenSource/GAIA-DataSet](https://github.com/CloudWise-OpenSource/GAIA-DataSet)
+1. 🗣 Commented on [#9047](https://github.com/apache/skywalking/issues/9047) in [apache/skywalking](https://github.com/apache/skywalking)
+2. ❗️ Closed issue [#7](https://github.com/CloudWise-OpenSource/GAIA-DataSet/issues/7) in [CloudWise-OpenSource/GAIA-DataSet](https://github.com/CloudWise-OpenSource/GAIA-DataSet)
+3. 🗣 Commented on [#7](https://github.com/CloudWise-OpenSource/GAIA-DataSet/issues/7) in [CloudWise-OpenSource/GAIA-DataSet](https://github.com/CloudWise-OpenSource/GAIA-DataSet)
+4. 🗣 Commented on [#9047](https://github.com/apache/skywalking/issues/9047) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#32](https://github.com/apache/skywalking-showcase/issues/32) in [apache/skywalking-showcase](https://github.com/apache/skywalking-showcase)
 <!--END_SECTION:activity-->
 
 ---
