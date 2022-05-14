@@ -52,11 +52,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Superskyyy/skywalking-banyandb-java-client/pull/3) in [Superskyyy/skywalking-banyandb-java-client](https://github.com/Superskyyy/skywalking-banyandb-java-client)
-2. ❌ Closed PR [#2](https://github.com/Superskyyy/skywalking-banyandb-java-client/pull/2) in [Superskyyy/skywalking-banyandb-java-client](https://github.com/Superskyyy/skywalking-banyandb-java-client)
-3. 💪 Opened PR [#2](https://github.com/Superskyyy/skywalking-banyandb-java-client/pull/2) in [Superskyyy/skywalking-banyandb-java-client](https://github.com/Superskyyy/skywalking-banyandb-java-client)
-4. ❌ Closed PR [#1](https://github.com/Superskyyy/skywalking-banyandb-java-client/pull/1) in [Superskyyy/skywalking-banyandb-java-client](https://github.com/Superskyyy/skywalking-banyandb-java-client)
-5. 💪 Opened PR [#1](https://github.com/Superskyyy/skywalking-banyandb-java-client/pull/1) in [Superskyyy/skywalking-banyandb-java-client](https://github.com/Superskyyy/skywalking-banyandb-java-client)
+1. 🗣 Commented on [#60](https://github.com/SkyAPM/document-cn-translation-of-skywalking/issues/60) in [SkyAPM/document-cn-translation-of-skywalking](https://github.com/SkyAPM/document-cn-translation-of-skywalking)
+2. 💪 Opened PR [#3](https://github.com/Superskyyy/skywalking-banyandb-java-client/pull/3) in [Superskyyy/skywalking-banyandb-java-client](https://github.com/Superskyyy/skywalking-banyandb-java-client)
+3. ❌ Closed PR [#2](https://github.com/Superskyyy/skywalking-banyandb-java-client/pull/2) in [Superskyyy/skywalking-banyandb-java-client](https://github.com/Superskyyy/skywalking-banyandb-java-client)
+4. 💪 Opened PR [#2](https://github.com/Superskyyy/skywalking-banyandb-java-client/pull/2) in [Superskyyy/skywalking-banyandb-java-client](https://github.com/Superskyyy/skywalking-banyandb-java-client)
+5. ❌ Closed PR [#1](https://github.com/Superskyyy/skywalking-banyandb-java-client/pull/1) in [Superskyyy/skywalking-banyandb-java-client](https://github.com/Superskyyy/skywalking-banyandb-java-client)
 <!--END_SECTION:activity-->
 
 ---
