@@ -52,11 +52,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Superskyyy/skywalking-banyandb-java-client/pull/2) in [Superskyyy/skywalking-banyandb-java-client](https://github.com/Superskyyy/skywalking-banyandb-java-client)
-2. ❌ Closed PR [#1](https://github.com/Superskyyy/skywalking-banyandb-java-client/pull/1) in [Superskyyy/skywalking-banyandb-java-client](https://github.com/Superskyyy/skywalking-banyandb-java-client)
-3. 💪 Opened PR [#1](https://github.com/Superskyyy/skywalking-banyandb-java-client/pull/1) in [Superskyyy/skywalking-banyandb-java-client](https://github.com/Superskyyy/skywalking-banyandb-java-client)
-4. 🗣 Commented on [#4698](https://github.com/apache/skywalking/issues/4698) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🗣 Commented on [#9047](https://github.com/apache/skywalking/issues/9047) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 💪 Opened PR [#3](https://github.com/Superskyyy/skywalking-banyandb-java-client/pull/3) in [Superskyyy/skywalking-banyandb-java-client](https://github.com/Superskyyy/skywalking-banyandb-java-client)
+2. ❌ Closed PR [#2](https://github.com/Superskyyy/skywalking-banyandb-java-client/pull/2) in [Superskyyy/skywalking-banyandb-java-client](https://github.com/Superskyyy/skywalking-banyandb-java-client)
+3. 💪 Opened PR [#2](https://github.com/Superskyyy/skywalking-banyandb-java-client/pull/2) in [Superskyyy/skywalking-banyandb-java-client](https://github.com/Superskyyy/skywalking-banyandb-java-client)
+4. ❌ Closed PR [#1](https://github.com/Superskyyy/skywalking-banyandb-java-client/pull/1) in [Superskyyy/skywalking-banyandb-java-client](https://github.com/Superskyyy/skywalking-banyandb-java-client)
+5. 💪 Opened PR [#1](https://github.com/Superskyyy/skywalking-banyandb-java-client/pull/1) in [Superskyyy/skywalking-banyandb-java-client](https://github.com/Superskyyy/skywalking-banyandb-java-client)
 <!--END_SECTION:activity-->
 
 ---
