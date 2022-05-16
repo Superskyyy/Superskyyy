@@ -53,10 +53,10 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9068](https://github.com/apache/skywalking/issues/9068) in [apache/skywalking](https://github.com/apache/skywalking)
-2. ❌ Reopened PR [#1](https://github.com/Superskyyy/skywalking-cli/pull/1) in [Superskyyy/skywalking-cli](https://github.com/Superskyyy/skywalking-cli)
-3. ❌ Closed PR [#1](https://github.com/Superskyyy/skywalking-cli/pull/1) in [Superskyyy/skywalking-cli](https://github.com/Superskyyy/skywalking-cli)
-4. 💪 Opened PR [#1](https://github.com/Superskyyy/skywalking-cli/pull/1) in [Superskyyy/skywalking-cli](https://github.com/Superskyyy/skywalking-cli)
-5. 🗣 Commented on [#60](https://github.com/SkyAPM/document-cn-translation-of-skywalking/issues/60) in [SkyAPM/document-cn-translation-of-skywalking](https://github.com/SkyAPM/document-cn-translation-of-skywalking)
+2. 🗣 Commented on [#9068](https://github.com/apache/skywalking/issues/9068) in [apache/skywalking](https://github.com/apache/skywalking)
+3. ❌ Reopened PR [#1](https://github.com/Superskyyy/skywalking-cli/pull/1) in [Superskyyy/skywalking-cli](https://github.com/Superskyyy/skywalking-cli)
+4. ❌ Closed PR [#1](https://github.com/Superskyyy/skywalking-cli/pull/1) in [Superskyyy/skywalking-cli](https://github.com/Superskyyy/skywalking-cli)
+5. 💪 Opened PR [#1](https://github.com/Superskyyy/skywalking-cli/pull/1) in [Superskyyy/skywalking-cli](https://github.com/Superskyyy/skywalking-cli)
 <!--END_SECTION:activity-->
 
 ---
