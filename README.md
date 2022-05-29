@@ -31,11 +31,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 - [ ] Deprecate Python 3.6 ETA Dec.23rd 2021 - extending to mid 2022
 
 #### SkyWalking-SWCK
-- [ ] Python Agent Injector - Priority 1
+- [ ] Python Agent Injector
 
 #### SkyWalking
 - [ ] AIOps pipeline
-- [ ] PagerDuty
+- [ ] ~PagerDuty~ -> move to after AIOps alert engine is there.
 
 #### Ideas
 
