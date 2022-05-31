@@ -54,8 +54,8 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9147](https://github.com/apache/skywalking/issues/9147) in [apache/skywalking](https://github.com/apache/skywalking)
-2. 🗣 Commented on [#210](https://github.com/apache/skywalking-python/issues/210) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+1. 💪 Opened PR [#1](https://github.com/OpenSource-enthusiastic/website/pull/1) in [OpenSource-enthusiastic/website](https://github.com/OpenSource-enthusiastic/website)
+2. 🗣 Commented on [#9147](https://github.com/apache/skywalking/issues/9147) in [apache/skywalking](https://github.com/apache/skywalking)
 3. 🗣 Commented on [#210](https://github.com/apache/skywalking-python/issues/210) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
 4. 🗣 Commented on [#210](https://github.com/apache/skywalking-python/issues/210) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
 5. 🗣 Commented on [#210](https://github.com/apache/skywalking-python/issues/210) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
