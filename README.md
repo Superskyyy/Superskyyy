@@ -54,11 +54,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/zoidbergwill/awesome-ebpf/issues/71) in [zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf)
-2. 💪 Opened PR [#71](https://github.com/zoidbergwill/awesome-ebpf/pull/71) in [zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf)
-3. 🗣 Commented on [#41](https://github.com/zoidbergwill/awesome-ebpf/issues/41) in [zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf)
-4. 🎉 Merged PR [#212](https://github.com/apache/skywalking-python/pull/212) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-5. 🗣 Commented on [#212](https://github.com/apache/skywalking-python/issues/212) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+1. 🎉 Merged PR [#1](https://github.com/Superskyyy/yet-another-github-miner/pull/1) in [Superskyyy/yet-another-github-miner](https://github.com/Superskyyy/yet-another-github-miner)
+2. 💪 Opened PR [#1](https://github.com/Superskyyy/yet-another-github-miner/pull/1) in [Superskyyy/yet-another-github-miner](https://github.com/Superskyyy/yet-another-github-miner)
+3. 🗣 Commented on [#71](https://github.com/zoidbergwill/awesome-ebpf/issues/71) in [zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf)
+4. 🗣 Commented on [#71](https://github.com/zoidbergwill/awesome-ebpf/issues/71) in [zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf)
+5. 💪 Opened PR [#71](https://github.com/zoidbergwill/awesome-ebpf/pull/71) in [zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf)
 <!--END_SECTION:activity-->
 
 ---
