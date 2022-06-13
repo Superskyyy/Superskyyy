@@ -54,11 +54,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8540](https://github.com/apache/airflow/issues/8540) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#1](https://github.com/Superskyyy/yet-another-github-miner/pull/1) in [Superskyyy/yet-another-github-miner](https://github.com/Superskyyy/yet-another-github-miner)
-3. 💪 Opened PR [#1](https://github.com/Superskyyy/yet-another-github-miner/pull/1) in [Superskyyy/yet-another-github-miner](https://github.com/Superskyyy/yet-another-github-miner)
-4. 🗣 Commented on [#71](https://github.com/zoidbergwill/awesome-ebpf/issues/71) in [zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf)
-5. 🗣 Commented on [#71](https://github.com/zoidbergwill/awesome-ebpf/issues/71) in [zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf)
+1. 🗣 Commented on [#213](https://github.com/apache/skywalking-python/issues/213) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+2. 🗣 Commented on [#213](https://github.com/apache/skywalking-python/issues/213) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+3. 🗣 Commented on [#8540](https://github.com/apache/airflow/issues/8540) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#1](https://github.com/Superskyyy/yet-another-github-miner/pull/1) in [Superskyyy/yet-another-github-miner](https://github.com/Superskyyy/yet-another-github-miner)
+5. 💪 Opened PR [#1](https://github.com/Superskyyy/yet-another-github-miner/pull/1) in [Superskyyy/yet-another-github-miner](https://github.com/Superskyyy/yet-another-github-miner)
 <!--END_SECTION:activity-->
 
 ---
