@@ -54,11 +54,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com/apache/skywalking-banyandb/issues/133) in [apache/skywalking-banyandb](https://github.com/apache/skywalking-banyandb)
+1. 🗣 Commented on [#484](https://github.com/SkyAPM/SkyAPM-dotnet/issues/484) in [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet)
 2. 🗣 Commented on [#133](https://github.com/apache/skywalking-banyandb/issues/133) in [apache/skywalking-banyandb](https://github.com/apache/skywalking-banyandb)
-3. ❗️ Opened issue [#946](https://github.com/cncf/glossary/issues/946) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🗣 Commented on [#108](https://github.com/apache/skywalking-booster-ui/issues/108) in [apache/skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui)
-5. 💪 Opened PR [#9227](https://github.com/apache/skywalking/pull/9227) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 🗣 Commented on [#133](https://github.com/apache/skywalking-banyandb/issues/133) in [apache/skywalking-banyandb](https://github.com/apache/skywalking-banyandb)
+4. ❗️ Opened issue [#946](https://github.com/cncf/glossary/issues/946) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#108](https://github.com/apache/skywalking-booster-ui/issues/108) in [apache/skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui)
 <!--END_SECTION:activity-->
 
 ---
