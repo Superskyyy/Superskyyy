@@ -19,6 +19,7 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 
 :bow_and_arrow: Student of 2021 Summer of Code @ [Apache SkyWalking](https://github.com/apache/skywalking)
 
+<!--
 ### Task List
 
 #### SkyWalking-Python
@@ -43,7 +44,7 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 
 - SkyWalking integration with Nonebot2
 - CHAOSS analysis of SkyWalking ecosystem
-
+-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Superskyyy)](https://git.io/streak-stats)
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/Superskyyy?label=follow&style=social)](https://github.com/Superskyyy)
@@ -61,6 +62,7 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 5. 🗣 Commented on [#214](https://github.com/apache/skywalking-python/issues/214) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
 <!--END_SECTION:activity-->
 
+<!--
 ---
 
 - 🌱 Currently learning **Golang**
@@ -75,7 +77,7 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 
 - 👨‍💻 Fluent in English, Mandarin and Wu Dialect | Experience in language/ game localization.
  
-
+-->
 <!--
 <a href="https://github.com/Superskyyy/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Superskyyy&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Yihao Chen's github stats" />
