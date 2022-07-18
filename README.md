@@ -55,11 +55,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/IBM/Drain3/issues/65) in [IBM/Drain3](https://github.com/IBM/Drain3)
-2. 🗣 Commented on [#7](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/7) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
-3. 🗣 Commented on [#7](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/7) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
-4. 🗣 Commented on [#7](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/7) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
-5. 🗣 Commented on [#8](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/8) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
+1. 🗣 Commented on [#10](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/10) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
+2. 🗣 Commented on [#10](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/10) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
+3. ❗️ Opened issue [#10](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/10) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
+4. ❗️ Opened issue [#9](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/9) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
+5. 🗣 Commented on [#65](https://github.com/IBM/Drain3/issues/65) in [IBM/Drain3](https://github.com/IBM/Drain3)
 <!--END_SECTION:activity-->
 
 <!--
