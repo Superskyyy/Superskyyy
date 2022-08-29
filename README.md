@@ -55,11 +55,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#231](https://github.com/apache/skywalking-python/issues/231) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-2. 🗣 Commented on [#231](https://github.com/apache/skywalking-python/issues/231) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+1. 🗣 Commented on [#16](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/16) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
+2. 🗣 Commented on [#16](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/16) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
 3. 🗣 Commented on [#231](https://github.com/apache/skywalking-python/issues/231) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
 4. 🗣 Commented on [#231](https://github.com/apache/skywalking-python/issues/231) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-5. 🗣 Commented on [#230](https://github.com/apache/skywalking-python/issues/230) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+5. 🗣 Commented on [#231](https://github.com/apache/skywalking-python/issues/231) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
 <!--END_SECTION:activity-->
 
 <!--
