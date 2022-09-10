@@ -55,11 +55,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Superskyyy/aiops-engine-for-skywalking/pull/1) in [Superskyyy/aiops-engine-for-skywalking](https://github.com/Superskyyy/aiops-engine-for-skywalking)
-2. 🗣 Commented on [#10](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/10) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
-3. 🗣 Commented on [#12](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/12) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
-4. 🗣 Commented on [#9](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/9) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
-5. 🗣 Commented on [#231](https://github.com/apache/skywalking-python/issues/231) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+1. 💪 Opened PR [#17](https://github.com/SkyAPM/aiops-engine-for-skywalking/pull/17) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
+2. 🎉 Merged PR [#2](https://github.com/Superskyyy/aiops-engine-for-skywalking/pull/2) in [Superskyyy/aiops-engine-for-skywalking](https://github.com/Superskyyy/aiops-engine-for-skywalking)
+3. 💪 Opened PR [#2](https://github.com/Superskyyy/aiops-engine-for-skywalking/pull/2) in [Superskyyy/aiops-engine-for-skywalking](https://github.com/Superskyyy/aiops-engine-for-skywalking)
+4. 💪 Opened PR [#1](https://github.com/Superskyyy/aiops-engine-for-skywalking/pull/1) in [Superskyyy/aiops-engine-for-skywalking](https://github.com/Superskyyy/aiops-engine-for-skywalking)
+5. 🗣 Commented on [#10](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/10) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
 <!--END_SECTION:activity-->
 
 <!--
