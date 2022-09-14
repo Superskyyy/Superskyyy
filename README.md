@@ -55,8 +55,8 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/SkyAPM/aiops-engine-for-skywalking/pull/16) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
-2. 🗣 Commented on [#16](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/16) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
+1. 🗣 Commented on [#236](https://github.com/apache/skywalking-python/issues/236) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+2. 🎉 Merged PR [#16](https://github.com/SkyAPM/aiops-engine-for-skywalking/pull/16) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
 3. 🗣 Commented on [#16](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/16) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
 4. 🗣 Commented on [#16](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/16) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
 5. 🗣 Commented on [#16](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/16) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
