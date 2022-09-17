@@ -55,11 +55,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/14) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
+1. 🗣 Commented on [#19](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/19) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
 2. 🗣 Commented on [#23](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/23) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
-3. 🗣 Commented on [#23](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/23) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
-4. ❌ Closed PR [#5](https://github.com/Superskyyy/aiops-engine-for-skywalking/pull/5) in [Superskyyy/aiops-engine-for-skywalking](https://github.com/Superskyyy/aiops-engine-for-skywalking)
-5. 💪 Opened PR [#5](https://github.com/Superskyyy/aiops-engine-for-skywalking/pull/5) in [Superskyyy/aiops-engine-for-skywalking](https://github.com/Superskyyy/aiops-engine-for-skywalking)
+3. 🗣 Commented on [#14](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/14) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
+4. 🗣 Commented on [#23](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/23) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
+5. 🗣 Commented on [#23](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/23) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
 <!--END_SECTION:activity-->
 
 <!--
