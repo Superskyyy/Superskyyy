@@ -55,11 +55,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75](https://github.com/apache/skywalking-swck/issues/75) in [apache/skywalking-swck](https://github.com/apache/skywalking-swck)
-2. 🗣 Commented on [#9627](https://github.com/apache/skywalking/issues/9627) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 🗣 Commented on [#11](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/11) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
+2. 🗣 Commented on [#75](https://github.com/apache/skywalking-swck/issues/75) in [apache/skywalking-swck](https://github.com/apache/skywalking-swck)
 3. 🗣 Commented on [#9627](https://github.com/apache/skywalking/issues/9627) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 💪 Opened PR [#509](https://github.com/apache/skywalking-website/pull/509) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
-5. 🎉 Merged PR [#25](https://github.com/SkyAPM/aiops-engine-for-skywalking/pull/25) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
+4. 🗣 Commented on [#9627](https://github.com/apache/skywalking/issues/9627) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 💪 Opened PR [#509](https://github.com/apache/skywalking-website/pull/509) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
 <!--END_SECTION:activity-->
 
 <!--
