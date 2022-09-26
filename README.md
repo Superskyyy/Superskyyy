@@ -55,11 +55,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/logpai/Drain3/issues/67) in [logpai/Drain3](https://github.com/logpai/Drain3)
-2. 🎉 Merged PR [#69](https://github.com/logpai/Drain3/pull/69) in [logpai/Drain3](https://github.com/logpai/Drain3)
-3. 💪 Opened PR [#69](https://github.com/logpai/Drain3/pull/69) in [logpai/Drain3](https://github.com/logpai/Drain3)
-4. ❗️ Closed issue [#65](https://github.com/logpai/Drain3/issues/65) in [logpai/Drain3](https://github.com/logpai/Drain3)
-5. 🗣 Commented on [#65](https://github.com/logpai/Drain3/issues/65) in [logpai/Drain3](https://github.com/logpai/Drain3)
+1. 🗣 Commented on [#9686](https://github.com/apache/skywalking/issues/9686) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 🗣 Commented on [#67](https://github.com/logpai/Drain3/issues/67) in [logpai/Drain3](https://github.com/logpai/Drain3)
+3. 🎉 Merged PR [#69](https://github.com/logpai/Drain3/pull/69) in [logpai/Drain3](https://github.com/logpai/Drain3)
+4. 💪 Opened PR [#69](https://github.com/logpai/Drain3/pull/69) in [logpai/Drain3](https://github.com/logpai/Drain3)
+5. ❗️ Closed issue [#65](https://github.com/logpai/Drain3/issues/65) in [logpai/Drain3](https://github.com/logpai/Drain3)
 <!--END_SECTION:activity-->
 
 <!--
