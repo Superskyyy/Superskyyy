@@ -55,11 +55,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#238](https://github.com/apache/skywalking-python/issues/238) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-2. 🎉 Merged PR [#26](https://github.com/SkyAPM/aiops-engine-for-skywalking/pull/26) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
-3. 💪 Opened PR [#26](https://github.com/SkyAPM/aiops-engine-for-skywalking/pull/26) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
-4. ❗️ Reopened issue [#12](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/12) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
-5. 🗣 Commented on [#12](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/12) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
+1. 🗣 Commented on [#67](https://github.com/logpai/Drain3/issues/67) in [logpai/Drain3](https://github.com/logpai/Drain3)
+2. 🎉 Merged PR [#69](https://github.com/logpai/Drain3/pull/69) in [logpai/Drain3](https://github.com/logpai/Drain3)
+3. 💪 Opened PR [#69](https://github.com/logpai/Drain3/pull/69) in [logpai/Drain3](https://github.com/logpai/Drain3)
+4. ❗️ Closed issue [#65](https://github.com/logpai/Drain3/issues/65) in [logpai/Drain3](https://github.com/logpai/Drain3)
+5. 🗣 Commented on [#65](https://github.com/logpai/Drain3/issues/65) in [logpai/Drain3](https://github.com/logpai/Drain3)
 <!--END_SECTION:activity-->
 
 <!--
