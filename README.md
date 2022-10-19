@@ -9,6 +9,11 @@
 
 Join us and work together on the AIOps Engine for Apache SkyWalking! - https://github.com/SkyAPM/aiops-engine-for-skywalking
 
+Upcoming new tools available to the SkyWalking community (Q4):
+1. A translation project that would appreciate more non-code contributors (Transifex).
+2. A QQ bot based on Nonebot 2.0 to sync between chat groups and automatically answer FAQ questions.
+3. A preview of AIOps engine (Log clustering and Metric anomaly detection)
+
 :bow_and_arrow: Mentor of 2022 Open Source Promotion Plan (OSPP) @ [Apache SkyWalking](https://github.com/apache/skywalking)
 
 Of the project `Exploration of Advanced Metrics Anomaly Detection & Alerts with Machine Learning in Apache SkyWalking`								
