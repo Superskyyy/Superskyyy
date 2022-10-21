@@ -60,11 +60,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/logpai/Drain3/issues/67) in [logpai/Drain3](https://github.com/logpai/Drain3)
-2. 🗣 Commented on [#9817](https://github.com/apache/skywalking/issues/9817) in [apache/skywalking](https://github.com/apache/skywalking)
-3. 🗣 Commented on [#243](https://github.com/apache/skywalking-python/issues/243) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-4. 🗣 Commented on [#243](https://github.com/apache/skywalking-python/issues/243) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-5. 🗣 Commented on [#238](https://github.com/apache/skywalking-python/issues/238) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+1. 🗣 Commented on [#243](https://github.com/apache/skywalking-python/issues/243) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+2. 🎉 Merged PR [#243](https://github.com/apache/skywalking-python/pull/243) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+3. 🗣 Commented on [#67](https://github.com/logpai/Drain3/issues/67) in [logpai/Drain3](https://github.com/logpai/Drain3)
+4. 🗣 Commented on [#9817](https://github.com/apache/skywalking/issues/9817) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#243](https://github.com/apache/skywalking-python/issues/243) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
 <!--END_SECTION:activity-->
 
 <!--
