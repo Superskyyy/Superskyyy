@@ -60,11 +60,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](https://github.com/apache/skywalking-infra-e2e/pull/87) in [apache/skywalking-infra-e2e](https://github.com/apache/skywalking-infra-e2e)
-2. 🗣 Commented on [#5944](https://github.com/apache/skywalking/issues/5944) in [apache/skywalking](https://github.com/apache/skywalking)
-3. ❗️ Closed issue [#5944](https://github.com/apache/skywalking/issues/5944) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 🗣 Commented on [#5944](https://github.com/apache/skywalking/issues/5944) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🗣 Commented on [#243](https://github.com/apache/skywalking-python/issues/243) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+1. 💪 Opened PR [#9884](https://github.com/apache/skywalking/pull/9884) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 💪 Opened PR [#87](https://github.com/apache/skywalking-infra-e2e/pull/87) in [apache/skywalking-infra-e2e](https://github.com/apache/skywalking-infra-e2e)
+3. 🗣 Commented on [#5944](https://github.com/apache/skywalking/issues/5944) in [apache/skywalking](https://github.com/apache/skywalking)
+4. ❗️ Closed issue [#5944](https://github.com/apache/skywalking/issues/5944) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#5944](https://github.com/apache/skywalking/issues/5944) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
