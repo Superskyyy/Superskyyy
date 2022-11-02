@@ -60,11 +60,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6893](https://github.com/python-poetry/poetry/issues/6893) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-2. 🗣 Commented on [#9863](https://github.com/apache/skywalking/issues/9863) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 💪 Opened PR [#9894](https://github.com/apache/skywalking/pull/9894) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 🗣 Commented on [#6893](https://github.com/python-poetry/poetry/issues/6893) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
 3. 🗣 Commented on [#9863](https://github.com/apache/skywalking/issues/9863) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 💪 Opened PR [#9884](https://github.com/apache/skywalking/pull/9884) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 💪 Opened PR [#87](https://github.com/apache/skywalking-infra-e2e/pull/87) in [apache/skywalking-infra-e2e](https://github.com/apache/skywalking-infra-e2e)
+4. 🗣 Commented on [#9863](https://github.com/apache/skywalking/issues/9863) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 💪 Opened PR [#9884](https://github.com/apache/skywalking/pull/9884) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
