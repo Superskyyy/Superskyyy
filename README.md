@@ -63,11 +63,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/apache/skywalking-infra-e2e/issues/84) in [apache/skywalking-infra-e2e](https://github.com/apache/skywalking-infra-e2e)
-2. 🗣 Commented on [#84](https://github.com/apache/skywalking-infra-e2e/issues/84) in [apache/skywalking-infra-e2e](https://github.com/apache/skywalking-infra-e2e)
-3. 🗣 Commented on [#246](https://github.com/apache/skywalking-python/issues/246) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-4. 🗣 Commented on [#246](https://github.com/apache/skywalking-python/issues/246) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-5. 💪 Opened PR [#46](https://github.com/Superskyyy/skywalking-python/pull/46) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
+1. 🗣 Commented on [#249](https://github.com/apache/skywalking-python/issues/249) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+2. 💪 Opened PR [#249](https://github.com/apache/skywalking-python/pull/249) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+3. 🗣 Commented on [#67](https://github.com/logpai/Drain3/issues/67) in [logpai/Drain3](https://github.com/logpai/Drain3)
+4. 🗣 Commented on [#84](https://github.com/apache/skywalking-infra-e2e/issues/84) in [apache/skywalking-infra-e2e](https://github.com/apache/skywalking-infra-e2e)
+5. 🗣 Commented on [#84](https://github.com/apache/skywalking-infra-e2e/issues/84) in [apache/skywalking-infra-e2e](https://github.com/apache/skywalking-infra-e2e)
 <!--END_SECTION:activity-->
 
 <!--
