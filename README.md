@@ -63,11 +63,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#249](https://github.com/apache/skywalking-python/issues/249) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+1. 🗣 Commented on [#29](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/29) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
 2. 🗣 Commented on [#249](https://github.com/apache/skywalking-python/issues/249) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-3. 💪 Opened PR [#249](https://github.com/apache/skywalking-python/pull/249) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-4. 🗣 Commented on [#67](https://github.com/logpai/Drain3/issues/67) in [logpai/Drain3](https://github.com/logpai/Drain3)
-5. 🗣 Commented on [#84](https://github.com/apache/skywalking-infra-e2e/issues/84) in [apache/skywalking-infra-e2e](https://github.com/apache/skywalking-infra-e2e)
+3. 🗣 Commented on [#249](https://github.com/apache/skywalking-python/issues/249) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+4. 💪 Opened PR [#249](https://github.com/apache/skywalking-python/pull/249) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+5. 🗣 Commented on [#67](https://github.com/logpai/Drain3/issues/67) in [logpai/Drain3](https://github.com/logpai/Drain3)
 <!--END_SECTION:activity-->
 
 <!--
