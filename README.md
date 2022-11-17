@@ -14,6 +14,9 @@ Upcoming new tools available to the SkyWalking community (Q4):
 2. A QQ bot based on Nonebot 2.0 to sync between chat groups and automatically answer FAQ questions.
 3. A preview of AIOps engine (Log clustering and Metric anomaly detection)
 
+TODO: I find EnvVars.md easily forgotten while making code changes, we should generate it instead of relying on manual change.
+
+
 Note:
 1. OAP changes should benefit from an automation command \breaking to record breaking changes to other agents.
 2. 
