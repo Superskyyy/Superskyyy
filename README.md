@@ -66,11 +66,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#263](https://github.com/apache/skywalking-python/issues/263) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+1. 💪 Opened PR [#264](https://github.com/apache/skywalking-python/pull/264) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
 2. 🗣 Commented on [#263](https://github.com/apache/skywalking-python/issues/263) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-3. 💪 Opened PR [#262](https://github.com/apache/skywalking-python/pull/262) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-4. ❌ Closed PR [#56](https://github.com/Superskyyy/skywalking-python/pull/56) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
-5. 💪 Opened PR [#261](https://github.com/apache/skywalking-python/pull/261) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+3. 🗣 Commented on [#263](https://github.com/apache/skywalking-python/issues/263) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+4. 💪 Opened PR [#262](https://github.com/apache/skywalking-python/pull/262) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+5. ❌ Closed PR [#56](https://github.com/Superskyyy/skywalking-python/pull/56) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
 <!--END_SECTION:activity-->
 
 <!--
