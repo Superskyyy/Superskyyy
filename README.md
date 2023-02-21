@@ -14,9 +14,6 @@ Upcoming new tools available to the SkyWalking community (Q4):
 2. A QQ bot based on Nonebot 2.0 to sync between chat groups and automatically answer FAQ questions.
 3. A preview of AIOps engine (Log clustering and Metric anomaly detection)
 
-TODO: I find EnvVars.md easily forgotten while making code changes, we should generate it instead of relying on manual change.
-
-
 Note:
 1. OAP changes should benefit from an automation command \breaking to record breaking changes to other agents.
 2. 
@@ -35,21 +32,16 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 
 #### SkyWalking-Python
 - [ ] Change from kafka/kafka-python to confluent-kafka. 
-- [ ] Support automatic postfork agent startup
-- [ ] Total cleanup for 1.0.0 GA
-- [ ] E2E testing for profiling, enforce e2e cases for new features.
 - [ ] Rewrite monkey patch with Wrapt. - low priority
 - [ ] Rewrite web framework plugins with middleware.
 - [ ] https://github.com/apache/skywalking-python/pull/167#discussion_r732387359 - pending
 - [ ] Automated PyPI test matrix and doc generation - low priority
-- [ ] Deprecate Python 3.6 ETA Dec.23rd 2021 - extending to mid 2022
 
 #### SkyWalking-SWCK
 - [ ] Python Agent Injector
 
 #### SkyWalking
 - [ ] AIOps pipeline
-- [ ] ~PagerDuty~ -> move to after AIOps alert engine is there.
 
 #### Ideas
 
