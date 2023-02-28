@@ -58,11 +58,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10451](https://github.com/apache/skywalking/issues/10451) in [apache/skywalking](https://github.com/apache/skywalking)
-2. 🗣 Commented on [#10447](https://github.com/apache/skywalking/issues/10447) in [apache/skywalking](https://github.com/apache/skywalking)
-3. 🗣 Commented on [#10408](https://github.com/apache/skywalking/issues/10408) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 🗣 Commented on [#10447](https://github.com/apache/skywalking/issues/10447) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🗣 Commented on [#10408](https://github.com/apache/skywalking/issues/10408) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 🗣 Commented on [#10447](https://github.com/apache/skywalking/issues/10447) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 🗣 Commented on [#10451](https://github.com/apache/skywalking/issues/10451) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 🗣 Commented on [#10447](https://github.com/apache/skywalking/issues/10447) in [apache/skywalking](https://github.com/apache/skywalking)
+4. 🗣 Commented on [#10408](https://github.com/apache/skywalking/issues/10408) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#10447](https://github.com/apache/skywalking/issues/10447) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
