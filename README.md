@@ -1,6 +1,8 @@
 <!--Introduction -->
 <h1 align="center">Hi 👋, I'm Superskyyy</h1>
 
+<strong> I'm temporarily away to focus on research, please reach me via email/wechat if for urgent matters. </strong>
+
 <!-- TODO: Refactor to https://metrics.lecoq.io/ self-hosted version  https://github.com/lowlighter/metrics#-documentation
  -->
 <!-- ![跳跃](https://user-images.githubusercontent.com/26076517/165435948-75aec3ee-8f54-423c-82b2-1b1ab0cafe2d.gif) -->
