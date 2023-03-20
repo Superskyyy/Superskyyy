@@ -60,11 +60,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#89](https://github.com/KroMiose/nonebot_plugin_naturel_gpt/issues/89) in [KroMiose/nonebot_plugin_naturel_gpt](https://github.com/KroMiose/nonebot_plugin_naturel_gpt)
-2. 🗣 Commented on [#585](https://github.com/apache/skywalking-website/issues/585) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
-3. ❗️ Opened issue [#10555](https://github.com/apache/skywalking/issues/10555) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 🗣 Commented on [#297](https://github.com/apache/skywalking-python/issues/297) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-5. 🗣 Commented on [#296](https://github.com/apache/skywalking-python/issues/296) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+1. ❗️ Closed issue [#14](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/14) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
+2. 🗣 Commented on [#14](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/14) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
+3. ❗️ Closed issue [#28](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/28) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
+4. 🗣 Commented on [#28](https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/28) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
+5. 🗣 Commented on [#89](https://github.com/KroMiose/nonebot_plugin_naturel_gpt/issues/89) in [KroMiose/nonebot_plugin_naturel_gpt](https://github.com/KroMiose/nonebot_plugin_naturel_gpt)
 <!--END_SECTION:activity-->
 
 <!--
