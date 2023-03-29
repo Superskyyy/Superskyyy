@@ -60,11 +60,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#74](https://github.com/logpai/Drain3/pull/74) in [logpai/Drain3](https://github.com/logpai/Drain3)
-2. 🗣 Commented on [#10408](https://github.com/apache/skywalking/issues/10408) in [apache/skywalking](https://github.com/apache/skywalking)
-3. 🗣 Commented on [#10408](https://github.com/apache/skywalking/issues/10408) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 💪 Opened PR [#10593](https://github.com/apache/skywalking/pull/10593) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🗣 Commented on [#10587](https://github.com/apache/skywalking/issues/10587) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 🗣 Commented on [#179](https://github.com/apache/skywalking-cli/issues/179) in [apache/skywalking-cli](https://github.com/apache/skywalking-cli)
+2. 🗣 Commented on [#179](https://github.com/apache/skywalking-cli/issues/179) in [apache/skywalking-cli](https://github.com/apache/skywalking-cli)
+3. ❌ Closed PR [#74](https://github.com/logpai/Drain3/pull/74) in [logpai/Drain3](https://github.com/logpai/Drain3)
+4. 🗣 Commented on [#10408](https://github.com/apache/skywalking/issues/10408) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#10408](https://github.com/apache/skywalking/issues/10408) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
