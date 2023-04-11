@@ -60,11 +60,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10542](https://github.com/apache/skywalking/issues/10542) in [apache/skywalking](https://github.com/apache/skywalking)
-2. 🗣 Commented on [#6](https://github.com/easychen/chatchan-dist/issues/6) in [easychen/chatchan-dist](https://github.com/easychen/chatchan-dist)
-3. 🎉 Merged PR [#297](https://github.com/apache/skywalking-python/pull/297) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-4. ❌ Closed PR [#75](https://github.com/logpai/Drain3/pull/75) in [logpai/Drain3](https://github.com/logpai/Drain3)
-5. 🗣 Commented on [#10617](https://github.com/apache/skywalking/issues/10617) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 🗣 Commented on [#296](https://github.com/apache/skywalking-python/issues/296) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+2. ❗️ Closed issue [#10542](https://github.com/apache/skywalking/issues/10542) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 🗣 Commented on [#6](https://github.com/easychen/chatchan-dist/issues/6) in [easychen/chatchan-dist](https://github.com/easychen/chatchan-dist)
+4. 🎉 Merged PR [#297](https://github.com/apache/skywalking-python/pull/297) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+5. ❌ Closed PR [#75](https://github.com/logpai/Drain3/pull/75) in [logpai/Drain3](https://github.com/logpai/Drain3)
 <!--END_SECTION:activity-->
 
 <!--
