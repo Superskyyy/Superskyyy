@@ -62,9 +62,9 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10672](https://github.com/apache/skywalking/issues/10672) in [apache/skywalking](https://github.com/apache/skywalking)
 2. 🗣 Commented on [#10672](https://github.com/apache/skywalking/issues/10672) in [apache/skywalking](https://github.com/apache/skywalking)
-3. ❗️ Opened issue [#10672](https://github.com/apache/skywalking/issues/10672) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 🗣 Commented on [#10669](https://github.com/apache/skywalking/issues/10669) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🗣 Commented on [#77](https://github.com/logpai/Drain3/issues/77) in [logpai/Drain3](https://github.com/logpai/Drain3)
+3. 🗣 Commented on [#10672](https://github.com/apache/skywalking/issues/10672) in [apache/skywalking](https://github.com/apache/skywalking)
+4. ❗️ Opened issue [#10672](https://github.com/apache/skywalking/issues/10672) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#10669](https://github.com/apache/skywalking/issues/10669) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
