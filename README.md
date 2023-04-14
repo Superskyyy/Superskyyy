@@ -60,11 +60,11 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10672](https://github.com/apache/skywalking/issues/10672) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 🗣 Commented on [#299](https://github.com/apache/skywalking-python/issues/299) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
 2. 🗣 Commented on [#10672](https://github.com/apache/skywalking/issues/10672) in [apache/skywalking](https://github.com/apache/skywalking)
 3. 🗣 Commented on [#10672](https://github.com/apache/skywalking/issues/10672) in [apache/skywalking](https://github.com/apache/skywalking)
-4. ❗️ Opened issue [#10672](https://github.com/apache/skywalking/issues/10672) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🗣 Commented on [#10669](https://github.com/apache/skywalking/issues/10669) in [apache/skywalking](https://github.com/apache/skywalking)
+4. 🗣 Commented on [#10672](https://github.com/apache/skywalking/issues/10672) in [apache/skywalking](https://github.com/apache/skywalking)
+5. ❗️ Opened issue [#10672](https://github.com/apache/skywalking/issues/10672) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
