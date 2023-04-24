@@ -19,13 +19,11 @@ Upcoming new tools available to the SkyWalking community (Q4):
 Note:
 1. OAP changes should benefit from an automation command \breaking to record breaking changes to other agents.
 2. 
-:bow_and_arrow: Mentor of 2022 Open Source Promotion Plan (OSPP) @ [Apache SkyWalking](https://github.com/apache/skywalking)
+:bow_and_arrow: Mentor of 2022/2023 Open Source Promotion Plan (OSPP) @ [Apache SkyWalking](https://github.com/apache/skywalking)
 
-Of the project `Exploration of Advanced Metrics Anomaly Detection & Alerts with Machine Learning in Apache SkyWalking`								
 
-:bow_and_arrow: Co-mentor of 2022 Google Summer of Code (GSOC) @ [Apache SkyWalking](https://github.com/apache/skywalking)
+:bow_and_arrow: Mentor of 2022/2023 Google Summer of Code (GSOC) @ [Apache SkyWalking](https://github.com/apache/skywalking)
 
-Of the project `Log Outlier Detection in Apache SkyWalking`								
 
 :bow_and_arrow: Student of 2021 Summer of Code @ [Apache SkyWalking](https://github.com/apache/skywalking)
 
@@ -33,11 +31,10 @@ Of the project `Log Outlier Detection in Apache SkyWalking`
 ### Task List
 
 #### SkyWalking-Python
-- [ ] Change from kafka/kafka-python to confluent-kafka. 
+- [x] Change from kafka/kafka-python to confluent-kafka. 
 - [ ] Rewrite monkey patch with Wrapt. - low priority
 - [ ] Rewrite web framework plugins with middleware.
 - [ ] https://github.com/apache/skywalking-python/pull/167#discussion_r732387359 - pending
-- [ ] Automated PyPI test matrix and doc generation - low priority
 
 #### SkyWalking-SWCK
 - [ ] Python Agent Injector
