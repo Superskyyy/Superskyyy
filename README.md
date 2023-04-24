@@ -41,6 +41,7 @@ Note:
 
 #### SkyWalking
 - [ ] AIOps pipeline
+- [ ] Ray integration
 
 #### Ideas
 
