@@ -3,6 +3,8 @@
 
 <strong> I'm temporarily away to focus on research, please reach me via email/wechat if for urgent matters. </strong>
 
+<strong> If you are a student looking for mentor, this year I'm full and will not be able to take more students for 1-on-1 mentoring, but you can still reach out to me and I will relay you to other mentors </strong>
+
 <!-- TODO: Refactor to https://metrics.lecoq.io/ self-hosted version  https://github.com/lowlighter/metrics#-documentation
  -->
 <!-- ![跳跃](https://user-images.githubusercontent.com/26076517/165435948-75aec3ee-8f54-423c-82b2-1b1ab0cafe2d.gif) -->
