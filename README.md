@@ -60,10 +60,10 @@ Note:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/logpai/Drain3/issues/79) in [logpai/Drain3](https://github.com/logpai/Drain3)
-2. 🗣 Commented on [#39](https://github.com/logpai/Drain3/issues/39) in [logpai/Drain3](https://github.com/logpai/Drain3)
-3. 🗣 Commented on [#70](https://github.com/logpai/Drain3/issues/70) in [logpai/Drain3](https://github.com/logpai/Drain3)
-4. 🗣 Commented on [#79](https://github.com/logpai/Drain3/issues/79) in [logpai/Drain3](https://github.com/logpai/Drain3)
+1. 🗣 Commented on [#136](https://github.com/dorny/paths-filter/issues/136) in [dorny/paths-filter](https://github.com/dorny/paths-filter)
+2. ❗️ Opened issue [#10737](https://github.com/apache/skywalking/issues/10737) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 🗣 Commented on [#136](https://github.com/dorny/paths-filter/issues/136) in [dorny/paths-filter](https://github.com/dorny/paths-filter)
+4. 🗣 Commented on [#136](https://github.com/dorny/paths-filter/issues/136) in [dorny/paths-filter](https://github.com/dorny/paths-filter)
 5. 🗣 Commented on [#79](https://github.com/logpai/Drain3/issues/79) in [logpai/Drain3](https://github.com/logpai/Drain3)
 <!--END_SECTION:activity-->
 
