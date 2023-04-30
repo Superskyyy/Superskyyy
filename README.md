@@ -60,11 +60,11 @@ Note:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#518](https://github.com/apache/skywalking-java/issues/518) in [apache/skywalking-java](https://github.com/apache/skywalking-java)
-2. 🗣 Commented on [#136](https://github.com/dorny/paths-filter/issues/136) in [dorny/paths-filter](https://github.com/dorny/paths-filter)
-3. ❗️ Opened issue [#10737](https://github.com/apache/skywalking/issues/10737) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 💪 Opened PR [#306](https://github.com/apache/skywalking-python/pull/306) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+2. 💪 Opened PR [#597](https://github.com/apache/skywalking-website/pull/597) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+3. 🗣 Commented on [#518](https://github.com/apache/skywalking-java/issues/518) in [apache/skywalking-java](https://github.com/apache/skywalking-java)
 4. 🗣 Commented on [#136](https://github.com/dorny/paths-filter/issues/136) in [dorny/paths-filter](https://github.com/dorny/paths-filter)
-5. 🗣 Commented on [#136](https://github.com/dorny/paths-filter/issues/136) in [dorny/paths-filter](https://github.com/dorny/paths-filter)
+5. ❗️ Opened issue [#10737](https://github.com/apache/skywalking/issues/10737) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
