@@ -60,11 +60,11 @@ Note:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10734](https://github.com/apache/skywalking/issues/10734) in [apache/skywalking](https://github.com/apache/skywalking)
-2. 🎉 Merged PR [#127](https://github.com/apache/skywalking-showcase/pull/127) in [apache/skywalking-showcase](https://github.com/apache/skywalking-showcase)
-3. 🗣 Commented on [#80](https://github.com/logpai/Drain3/issues/80) in [logpai/Drain3](https://github.com/logpai/Drain3)
-4. 🎉 Merged PR [#307](https://github.com/apache/skywalking-python/pull/307) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-5. 💪 Opened PR [#306](https://github.com/apache/skywalking-python/pull/306) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+1. 🗣 Commented on [#10737](https://github.com/apache/skywalking/issues/10737) in [apache/skywalking](https://github.com/apache/skywalking)
+2. ❗️ Opened issue [#10778](https://github.com/apache/skywalking/issues/10778) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 🗣 Commented on [#10734](https://github.com/apache/skywalking/issues/10734) in [apache/skywalking](https://github.com/apache/skywalking)
+4. 🎉 Merged PR [#127](https://github.com/apache/skywalking-showcase/pull/127) in [apache/skywalking-showcase](https://github.com/apache/skywalking-showcase)
+5. 🗣 Commented on [#80](https://github.com/logpai/Drain3/issues/80) in [logpai/Drain3](https://github.com/logpai/Drain3)
 <!--END_SECTION:activity-->
 
 <!--
