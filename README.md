@@ -60,11 +60,11 @@ Note:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#223](https://github.com/opensource-f2f/episode/issues/223) in [opensource-f2f/episode](https://github.com/opensource-f2f/episode)
-2. 🗣 Commented on [#10737](https://github.com/apache/skywalking/issues/10737) in [apache/skywalking](https://github.com/apache/skywalking)
-3. 🗣 Commented on [#10734](https://github.com/apache/skywalking/issues/10734) in [apache/skywalking](https://github.com/apache/skywalking)
+1. ❗️ Closed issue [#10768](https://github.com/apache/skywalking/issues/10768) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 🗣 Commented on [#10768](https://github.com/apache/skywalking/issues/10768) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 🗣 Commented on [#223](https://github.com/opensource-f2f/episode/issues/223) in [opensource-f2f/episode](https://github.com/opensource-f2f/episode)
 4. 🗣 Commented on [#10737](https://github.com/apache/skywalking/issues/10737) in [apache/skywalking](https://github.com/apache/skywalking)
-5. ❗️ Opened issue [#10778](https://github.com/apache/skywalking/issues/10778) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#10734](https://github.com/apache/skywalking/issues/10734) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
