@@ -60,11 +60,11 @@ Note:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10768](https://github.com/apache/skywalking/issues/10768) in [apache/skywalking](https://github.com/apache/skywalking)
-2. 🗣 Commented on [#10768](https://github.com/apache/skywalking/issues/10768) in [apache/skywalking](https://github.com/apache/skywalking)
-3. 🗣 Commented on [#223](https://github.com/opensource-f2f/episode/issues/223) in [opensource-f2f/episode](https://github.com/opensource-f2f/episode)
-4. 🗣 Commented on [#10737](https://github.com/apache/skywalking/issues/10737) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🗣 Commented on [#10734](https://github.com/apache/skywalking/issues/10734) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 💪 Opened PR [#1](https://github.com/guangyizhangbci/guangyizhangbci.github.io/pull/1) in [guangyizhangbci/guangyizhangbci.github.io](https://github.com/guangyizhangbci/guangyizhangbci.github.io)
+2. 💪 Opened PR [#6](https://github.com/apache/skywalking-grafana-plugins/pull/6) in [apache/skywalking-grafana-plugins](https://github.com/apache/skywalking-grafana-plugins)
+3. ❗️ Closed issue [#10768](https://github.com/apache/skywalking/issues/10768) in [apache/skywalking](https://github.com/apache/skywalking)
+4. 🗣 Commented on [#10768](https://github.com/apache/skywalking/issues/10768) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#223](https://github.com/opensource-f2f/episode/issues/223) in [opensource-f2f/episode](https://github.com/opensource-f2f/episode)
 <!--END_SECTION:activity-->
 
 <!--
