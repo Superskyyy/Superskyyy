@@ -60,11 +60,11 @@ Note:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#306](https://github.com/apache/skywalking-python/issues/306) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-2. 💪 Opened PR [#1](https://github.com/guangyizhangbci/guangyizhangbci.github.io/pull/1) in [guangyizhangbci/guangyizhangbci.github.io](https://github.com/guangyizhangbci/guangyizhangbci.github.io)
-3. 💪 Opened PR [#6](https://github.com/apache/skywalking-grafana-plugins/pull/6) in [apache/skywalking-grafana-plugins](https://github.com/apache/skywalking-grafana-plugins)
-4. ❗️ Closed issue [#10768](https://github.com/apache/skywalking/issues/10768) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🗣 Commented on [#10768](https://github.com/apache/skywalking/issues/10768) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 🎉 Merged PR [#13](https://github.com/Superskyyy/skywalking/pull/13) in [Superskyyy/skywalking](https://github.com/Superskyyy/skywalking)
+2. 🗣 Commented on [#306](https://github.com/apache/skywalking-python/issues/306) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+3. 💪 Opened PR [#1](https://github.com/guangyizhangbci/guangyizhangbci.github.io/pull/1) in [guangyizhangbci/guangyizhangbci.github.io](https://github.com/guangyizhangbci/guangyizhangbci.github.io)
+4. 💪 Opened PR [#6](https://github.com/apache/skywalking-grafana-plugins/pull/6) in [apache/skywalking-grafana-plugins](https://github.com/apache/skywalking-grafana-plugins)
+5. ❗️ Closed issue [#10768](https://github.com/apache/skywalking/issues/10768) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
