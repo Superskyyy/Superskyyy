@@ -62,9 +62,9 @@ Note:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10812](https://github.com/apache/skywalking/issues/10812) in [apache/skywalking](https://github.com/apache/skywalking)
 2. 🗣 Commented on [#10812](https://github.com/apache/skywalking/issues/10812) in [apache/skywalking](https://github.com/apache/skywalking)
-3. 💪 Opened PR [#10812](https://github.com/apache/skywalking/pull/10812) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 💪 Opened PR [#2](https://github.com/Superskyyy/skywalking/pull/2) in [Superskyyy/skywalking](https://github.com/Superskyyy/skywalking)
-5. ❌ Closed PR [#1](https://github.com/Superskyyy/skywalking/pull/1) in [Superskyyy/skywalking](https://github.com/Superskyyy/skywalking)
+3. 🗣 Commented on [#10812](https://github.com/apache/skywalking/issues/10812) in [apache/skywalking](https://github.com/apache/skywalking)
+4. 💪 Opened PR [#10812](https://github.com/apache/skywalking/pull/10812) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 💪 Opened PR [#2](https://github.com/Superskyyy/skywalking/pull/2) in [Superskyyy/skywalking](https://github.com/Superskyyy/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
