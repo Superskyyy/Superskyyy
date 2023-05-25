@@ -60,11 +60,11 @@ Note:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Superskyyy/skywalking-cli/pull/2) in [Superskyyy/skywalking-cli](https://github.com/Superskyyy/skywalking-cli)
-2. ❌ Closed PR [#179](https://github.com/apache/skywalking-cli/pull/179) in [apache/skywalking-cli](https://github.com/apache/skywalking-cli)
-3. 🗣 Commented on [#179](https://github.com/apache/skywalking-cli/issues/179) in [apache/skywalking-cli](https://github.com/apache/skywalking-cli)
-4. 🗣 Commented on [#10849](https://github.com/apache/skywalking/issues/10849) in [apache/skywalking](https://github.com/apache/skywalking)
-5. ❌ Closed PR [#310](https://github.com/apache/skywalking-python/pull/310) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+1. 💪 Opened PR [#181](https://github.com/apache/skywalking-cli/pull/181) in [apache/skywalking-cli](https://github.com/apache/skywalking-cli)
+2. 💪 Opened PR [#2](https://github.com/Superskyyy/skywalking-cli/pull/2) in [Superskyyy/skywalking-cli](https://github.com/Superskyyy/skywalking-cli)
+3. ❌ Closed PR [#179](https://github.com/apache/skywalking-cli/pull/179) in [apache/skywalking-cli](https://github.com/apache/skywalking-cli)
+4. 🗣 Commented on [#179](https://github.com/apache/skywalking-cli/issues/179) in [apache/skywalking-cli](https://github.com/apache/skywalking-cli)
+5. 🗣 Commented on [#10849](https://github.com/apache/skywalking/issues/10849) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
