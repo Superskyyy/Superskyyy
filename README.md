@@ -60,11 +60,11 @@ Note:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#447](https://github.com/ymcui/Chinese-LLaMA-Alpaca/pull/447) in [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
-2. 🗣 Commented on [#181](https://github.com/apache/skywalking-cli/issues/181) in [apache/skywalking-cli](https://github.com/apache/skywalking-cli)
-3. 💪 Opened PR [#106](https://github.com/Superskyyy/skywalking-python/pull/106) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
-4. 💪 Opened PR [#181](https://github.com/apache/skywalking-cli/pull/181) in [apache/skywalking-cli](https://github.com/apache/skywalking-cli)
-5. 💪 Opened PR [#2](https://github.com/Superskyyy/skywalking-cli/pull/2) in [Superskyyy/skywalking-cli](https://github.com/Superskyyy/skywalking-cli)
+1. 🗣 Commented on [#10307](https://github.com/apache/skywalking/issues/10307) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 💪 Opened PR [#447](https://github.com/ymcui/Chinese-LLaMA-Alpaca/pull/447) in [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
+3. 🗣 Commented on [#181](https://github.com/apache/skywalking-cli/issues/181) in [apache/skywalking-cli](https://github.com/apache/skywalking-cli)
+4. 💪 Opened PR [#106](https://github.com/Superskyyy/skywalking-python/pull/106) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
+5. 💪 Opened PR [#181](https://github.com/apache/skywalking-cli/pull/181) in [apache/skywalking-cli](https://github.com/apache/skywalking-cli)
 <!--END_SECTION:activity-->
 
 <!--
