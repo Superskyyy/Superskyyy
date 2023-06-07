@@ -60,11 +60,11 @@ Note:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10778](https://github.com/apache/skywalking/issues/10778) in [apache/skywalking](https://github.com/apache/skywalking)
-2. 🗣 Commented on [#10778](https://github.com/apache/skywalking/issues/10778) in [apache/skywalking](https://github.com/apache/skywalking)
-3. 🗣 Commented on [#1](https://github.com/apache/skywalking-terraform/issues/1) in [apache/skywalking-terraform](https://github.com/apache/skywalking-terraform)
-4. 🗣 Commented on [#311](https://github.com/apache/skywalking-python/issues/311) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-5. 🗣 Commented on [#10307](https://github.com/apache/skywalking/issues/10307) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 🗣 Commented on [#10884](https://github.com/apache/skywalking/issues/10884) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 🗣 Commented on [#10884](https://github.com/apache/skywalking/issues/10884) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 🗣 Commented on [#10884](https://github.com/apache/skywalking/issues/10884) in [apache/skywalking](https://github.com/apache/skywalking)
+4. 🗣 Commented on [#10884](https://github.com/apache/skywalking/issues/10884) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#10884](https://github.com/apache/skywalking/issues/10884) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
