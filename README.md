@@ -60,11 +60,11 @@ Note:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#312](https://github.com/apache/skywalking-python/issues/312) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-2. 🎉 Merged PR [#311](https://github.com/apache/skywalking-python/pull/311) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-3. 🗣 Commented on [#311](https://github.com/apache/skywalking-python/issues/311) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+1. 🗣 Commented on [#10734](https://github.com/apache/skywalking/issues/10734) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 🗣 Commented on [#312](https://github.com/apache/skywalking-python/issues/312) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+3. 🎉 Merged PR [#311](https://github.com/apache/skywalking-python/pull/311) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
 4. 🗣 Commented on [#311](https://github.com/apache/skywalking-python/issues/311) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-5. 🗣 Commented on [#10884](https://github.com/apache/skywalking/issues/10884) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#311](https://github.com/apache/skywalking-python/issues/311) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
 <!--END_SECTION:activity-->
 
 <!--
