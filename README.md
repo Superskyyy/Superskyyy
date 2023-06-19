@@ -60,11 +60,11 @@ Note:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#312](https://github.com/apache/skywalking-python/pull/312) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-2. 🎉 Merged PR [#2](https://github.com/SkyAPM/R3/pull/2) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
-3. 💪 Opened PR [#2](https://github.com/SkyAPM/R3/pull/2) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
-4. 🎉 Merged PR [#1](https://github.com/SkyAPM/R3/pull/1) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
-5. 💪 Opened PR [#1](https://github.com/SkyAPM/R3/pull/1) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
+1. 🗣 Commented on [#10734](https://github.com/apache/skywalking/issues/10734) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 🎉 Merged PR [#312](https://github.com/apache/skywalking-python/pull/312) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+3. 🎉 Merged PR [#2](https://github.com/SkyAPM/R3/pull/2) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
+4. 💪 Opened PR [#2](https://github.com/SkyAPM/R3/pull/2) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
+5. 🎉 Merged PR [#1](https://github.com/SkyAPM/R3/pull/1) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
 <!--END_SECTION:activity-->
 
 <!--
