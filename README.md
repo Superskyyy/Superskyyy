@@ -60,11 +60,11 @@ Note:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10966](https://github.com/apache/skywalking/issues/10966) in [apache/skywalking](https://github.com/apache/skywalking)
-2. 💪 Opened PR [#4](https://github.com/SkyAPM/R3/pull/4) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
+1. 💪 Opened PR [#10973](https://github.com/apache/skywalking/pull/10973) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 🎉 Merged PR [#10966](https://github.com/apache/skywalking/pull/10966) in [apache/skywalking](https://github.com/apache/skywalking)
 3. 🗣 Commented on [#10966](https://github.com/apache/skywalking/issues/10966) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 💪 Opened PR [#3](https://github.com/SkyAPM/R3/pull/3) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
-5. 🗣 Commented on [#10734](https://github.com/apache/skywalking/issues/10734) in [apache/skywalking](https://github.com/apache/skywalking)
+4. 🗣 Commented on [#10966](https://github.com/apache/skywalking/issues/10966) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 💪 Opened PR [#4](https://github.com/SkyAPM/R3/pull/4) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
 <!--END_SECTION:activity-->
 
 <!--
