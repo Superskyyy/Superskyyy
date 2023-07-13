@@ -60,11 +60,11 @@ Note:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#313](https://github.com/apache/skywalking-python/pull/313) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-2. 🗣 Commented on [#47](https://github.com/databrickslabs/pyspark-ai/issues/47) in [databrickslabs/pyspark-ai](https://github.com/databrickslabs/pyspark-ai)
-3. 🎉 Merged PR [#11025](https://github.com/apache/skywalking/pull/11025) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 🗣 Commented on [#82](https://github.com/logpai/Drain3/issues/82) in [logpai/Drain3](https://github.com/logpai/Drain3)
-5. 💪 Opened PR [#5](https://github.com/SkyAPM/R3/pull/5) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
+1. 🗣 Commented on [#11052](https://github.com/apache/skywalking/issues/11052) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 💪 Opened PR [#313](https://github.com/apache/skywalking-python/pull/313) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+3. 🗣 Commented on [#47](https://github.com/databrickslabs/pyspark-ai/issues/47) in [databrickslabs/pyspark-ai](https://github.com/databrickslabs/pyspark-ai)
+4. 🎉 Merged PR [#11025](https://github.com/apache/skywalking/pull/11025) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#82](https://github.com/logpai/Drain3/issues/82) in [logpai/Drain3](https://github.com/logpai/Drain3)
 <!--END_SECTION:activity-->
 
 <!--
