@@ -60,11 +60,11 @@ Note:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#304](https://github.com/apache/skywalking-booster-ui/pull/304) in [apache/skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui)
-2. 🗣 Commented on [#11052](https://github.com/apache/skywalking/issues/11052#issuecomment-1633534742) in [apache/skywalking](https://github.com/apache/skywalking)
-3. 💪 Opened PR [#313](https://github.com/apache/skywalking-python/pull/313) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-4. 🗣 Commented on [#47](https://github.com/databrickslabs/pyspark-ai/pull/47#issuecomment-1614932881) in [databrickslabs/pyspark-ai](https://github.com/databrickslabs/pyspark-ai)
-5. 🎉 Merged PR [#11025](https://github.com/apache/skywalking/pull/11025) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 🗣 Commented on [#7682](https://github.com/apache/skywalking/issues/7682#issuecomment-1684625490) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 🗣 Commented on [#316](https://github.com/apache/skywalking-python/pull/316#issuecomment-1684361219) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+3. 🗣 Commented on [#7682](https://github.com/apache/skywalking/issues/7682#issuecomment-1684335039) in [apache/skywalking](https://github.com/apache/skywalking)
+4. 🎉 Merged PR [#304](https://github.com/apache/skywalking-booster-ui/pull/304) in [apache/skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui)
+5. 🗣 Commented on [#11052](https://github.com/apache/skywalking/issues/11052#issuecomment-1633534742) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
