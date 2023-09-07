@@ -60,11 +60,11 @@ Note:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#87](https://github.com/logpai/Drain3/pull/87#issuecomment-1709317847) in [logpai/Drain3](https://github.com/logpai/Drain3)
-2. 🎉 Merged PR [#85](https://github.com/logpai/Drain3/pull/85) in [logpai/Drain3](https://github.com/logpai/Drain3)
-3. 🗣 Commented on [#85](https://github.com/logpai/Drain3/pull/85#issuecomment-1701852673) in [logpai/Drain3](https://github.com/logpai/Drain3)
-4. 🗣 Commented on [#10408](https://github.com/apache/skywalking/issues/10408#issuecomment-1696628414) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🎉 Merged PR [#316](https://github.com/apache/skywalking-python/pull/316) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+1. 🗣 Commented on [#689](https://github.com/XiaoMi/mone/issues/689#issuecomment-1709345864) in [XiaoMi/mone](https://github.com/XiaoMi/mone)
+2. 🗣 Commented on [#87](https://github.com/logpai/Drain3/pull/87#issuecomment-1709317847) in [logpai/Drain3](https://github.com/logpai/Drain3)
+3. 🎉 Merged PR [#85](https://github.com/logpai/Drain3/pull/85) in [logpai/Drain3](https://github.com/logpai/Drain3)
+4. 🗣 Commented on [#85](https://github.com/logpai/Drain3/pull/85#issuecomment-1701852673) in [logpai/Drain3](https://github.com/logpai/Drain3)
+5. 🗣 Commented on [#10408](https://github.com/apache/skywalking/issues/10408#issuecomment-1696628414) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
