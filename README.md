@@ -60,11 +60,11 @@ Note:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/logpai/Drain3/issues/80#issuecomment-1715517014) in [logpai/Drain3](https://github.com/logpai/Drain3)
-2. 🗣 Commented on [#689](https://github.com/XiaoMi/mone/issues/689#issuecomment-1709345864) in [XiaoMi/mone](https://github.com/XiaoMi/mone)
-3. 🗣 Commented on [#87](https://github.com/logpai/Drain3/pull/87#issuecomment-1709317847) in [logpai/Drain3](https://github.com/logpai/Drain3)
-4. 🎉 Merged PR [#85](https://github.com/logpai/Drain3/pull/85) in [logpai/Drain3](https://github.com/logpai/Drain3)
-5. 🗣 Commented on [#85](https://github.com/logpai/Drain3/pull/85#issuecomment-1701852673) in [logpai/Drain3](https://github.com/logpai/Drain3)
+1. 🗣 Commented on [#88](https://github.com/logpai/Drain3/issues/88#issuecomment-1730794337) in [logpai/Drain3](https://github.com/logpai/Drain3)
+2. 🗣 Commented on [#80](https://github.com/logpai/Drain3/issues/80#issuecomment-1715517014) in [logpai/Drain3](https://github.com/logpai/Drain3)
+3. 🗣 Commented on [#689](https://github.com/XiaoMi/mone/issues/689#issuecomment-1709345864) in [XiaoMi/mone](https://github.com/XiaoMi/mone)
+4. 🗣 Commented on [#87](https://github.com/logpai/Drain3/pull/87#issuecomment-1709317847) in [logpai/Drain3](https://github.com/logpai/Drain3)
+5. 🎉 Merged PR [#85](https://github.com/logpai/Drain3/pull/85) in [logpai/Drain3](https://github.com/logpai/Drain3)
 <!--END_SECTION:activity-->
 
 <!--
