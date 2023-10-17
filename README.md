@@ -60,11 +60,11 @@ Note:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10734](https://github.com/apache/skywalking/issues/10734#issuecomment-1755894773) in [apache/skywalking](https://github.com/apache/skywalking)
-2. 🗣 Commented on [#30](https://github.com/SkyAPM/aiops-engine-for-skywalking/pull/30#issuecomment-1739885387) in [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking)
-3. 🗣 Commented on [#88](https://github.com/logpai/Drain3/issues/88#issuecomment-1730794337) in [logpai/Drain3](https://github.com/logpai/Drain3)
-4. 🗣 Commented on [#80](https://github.com/logpai/Drain3/issues/80#issuecomment-1715517014) in [logpai/Drain3](https://github.com/logpai/Drain3)
-5. 🗣 Commented on [#689](https://github.com/XiaoMi/mone/issues/689#issuecomment-1709345864) in [XiaoMi/mone](https://github.com/XiaoMi/mone)
+1. 💪 Opened PR [#109](https://github.com/Superskyyy/skywalking-python/pull/109) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
+2. ❌ Closed PR [#108](https://github.com/Superskyyy/skywalking-python/pull/108) in [Superskyyy/skywalking-python](https://github.com/Superskyyy/skywalking-python)
+3. 🗣 Commented on [#323](https://github.com/apache/skywalking-python/pull/323#issuecomment-1765261102) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+4. 🗣 Commented on [#323](https://github.com/apache/skywalking-python/pull/323#issuecomment-1765235761) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+5. 🗣 Commented on [#10734](https://github.com/apache/skywalking/issues/10734#issuecomment-1755894773) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
