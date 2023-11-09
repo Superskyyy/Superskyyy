@@ -15,12 +15,10 @@ Join us and work together on the AIOps Engine for Apache SkyWalking! - https://g
 
 Upcoming new tools available to the SkyWalking community:
 1. A translation project that would appreciate more non-code contributors (Transifex).
-2. A QQ bot based on Nonebot 2.0 to sync between chat groups and automatically answer FAQ questions.
-3. A preview of AIOps engine (Log clustering and Metric anomaly detection)
+2. A preview of AIOps engine (URI Grouping, Log clustering and Metric anomaly detection)
+3. POC - Root Cause Analysis (RCA) for Apache SkyWalking topology and metrics.
 
-Note:
-1. OAP changes should benefit from an automation command \breaking to record breaking changes to other agents.
-2. 
+
 :bow_and_arrow: Mentor of 2022/2023 Open Source Promotion Plan (OSPP) @ [Apache SkyWalking](https://github.com/apache/skywalking)
 
 
