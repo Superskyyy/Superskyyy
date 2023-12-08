@@ -58,11 +58,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#91](https://github.com/logpai/Drain3/issues/91#issuecomment-1804111611) in [logpai/Drain3](https://github.com/logpai/Drain3)
-2. 🔒 Closed issue [#10734](https://github.com/apache/skywalking/issues/10734) in [apache/skywalking](https://github.com/apache/skywalking)
-3. 🔒 Closed issue [#11509](https://github.com/apache/skywalking/issues/11509) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 🎉 Merged PR [#329](https://github.com/apache/skywalking-python/pull/329) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-5. 🗣 Commented on [#329](https://github.com/apache/skywalking-python/pull/329#issuecomment-1799781025) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+1. 🗣 Commented on [#1948](https://github.com/vllm-project/vllm/issues/1948#issuecomment-1846517442) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+2. 🗣 Commented on [#1606](https://github.com/vllm-project/vllm/issues/1606#issuecomment-1846490103) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+3. 🗣 Commented on [#91](https://github.com/logpai/Drain3/issues/91#issuecomment-1804111611) in [logpai/Drain3](https://github.com/logpai/Drain3)
+4. 🔒 Closed issue [#10734](https://github.com/apache/skywalking/issues/10734) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🔒 Closed issue [#11509](https://github.com/apache/skywalking/issues/11509) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
