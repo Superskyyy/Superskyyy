@@ -58,11 +58,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/SkyAPM/R3/pull/8) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
-2. 🗣 Commented on [#1948](https://github.com/vllm-project/vllm/issues/1948#issuecomment-1846517442) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-3. 🗣 Commented on [#1606](https://github.com/vllm-project/vllm/issues/1606#issuecomment-1846490103) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-4. 🗣 Commented on [#91](https://github.com/logpai/Drain3/issues/91#issuecomment-1804111611) in [logpai/Drain3](https://github.com/logpai/Drain3)
-5. 🔒 Closed issue [#10734](https://github.com/apache/skywalking/issues/10734) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 🚀 Published release [0.1.0](https://github.com/SkyAPM/R3/releases/tag/v0.1.0) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
+2. 💪 Opened PR [#8](https://github.com/SkyAPM/R3/pull/8) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
+3. 🗣 Commented on [#1948](https://github.com/vllm-project/vllm/issues/1948#issuecomment-1846517442) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+4. 🗣 Commented on [#1606](https://github.com/vllm-project/vllm/issues/1606#issuecomment-1846490103) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+5. 🗣 Commented on [#91](https://github.com/logpai/Drain3/issues/91#issuecomment-1804111611) in [logpai/Drain3](https://github.com/logpai/Drain3)
 <!--END_SECTION:activity-->
 
 <!--
