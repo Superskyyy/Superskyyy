@@ -58,11 +58,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#667](https://github.com/apache/skywalking-website/pull/667#issuecomment-1870718934) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
-2. 🗣 Commented on [#667](https://github.com/apache/skywalking-website/pull/667#issuecomment-1870713771) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
-3. 💪 Opened PR [#667](https://github.com/apache/skywalking-website/pull/667) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
-4. 🚀 Published release [0.1.0](https://github.com/SkyAPM/R3/releases/tag/v0.1.0) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
-5. 💪 Opened PR [#8](https://github.com/SkyAPM/R3/pull/8) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
+1. 💪 Opened PR [#668](https://github.com/apache/skywalking-website/pull/668) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+2. ❗ Opened issue [#58](https://github.com/kezhenxu94/chatgpt-java/issues/58) in [kezhenxu94/chatgpt-java](https://github.com/kezhenxu94/chatgpt-java)
+3. 🗣 Commented on [#667](https://github.com/apache/skywalking-website/pull/667#issuecomment-1870764728) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+4. 🗣 Commented on [#667](https://github.com/apache/skywalking-website/pull/667#issuecomment-1870718934) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+5. 🗣 Commented on [#667](https://github.com/apache/skywalking-website/pull/667#issuecomment-1870713771) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
 <!--END_SECTION:activity-->
 
 <!--
