@@ -58,11 +58,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/kezhenxu94/chatgpt-java/issues/58#issuecomment-1871699032) in [kezhenxu94/chatgpt-java](https://github.com/kezhenxu94/chatgpt-java)
-2. 🗣 Commented on [#11706](https://github.com/apache/skywalking/pull/11706#issuecomment-1871693917) in [apache/skywalking](https://github.com/apache/skywalking)
-3. 🗣 Commented on [#58](https://github.com/kezhenxu94/chatgpt-java/issues/58#issuecomment-1871692890) in [kezhenxu94/chatgpt-java](https://github.com/kezhenxu94/chatgpt-java)
-4. 💪 Opened PR [#64](https://github.com/SkyAPM/document-cn-translation-of-skywalking/pull/64) in [SkyAPM/document-cn-translation-of-skywalking](https://github.com/SkyAPM/document-cn-translation-of-skywalking)
-5. 💪 Opened PR [#11706](https://github.com/apache/skywalking/pull/11706) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 🗣 Commented on [#11708](https://github.com/apache/skywalking/issues/11708#issuecomment-1871789623) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 🔒 Closed issue [#11708](https://github.com/apache/skywalking/issues/11708) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 🗣 Commented on [#58](https://github.com/kezhenxu94/chatgpt-java/issues/58#issuecomment-1871699032) in [kezhenxu94/chatgpt-java](https://github.com/kezhenxu94/chatgpt-java)
+4. 🗣 Commented on [#11706](https://github.com/apache/skywalking/pull/11706#issuecomment-1871693917) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#58](https://github.com/kezhenxu94/chatgpt-java/issues/58#issuecomment-1871692890) in [kezhenxu94/chatgpt-java](https://github.com/kezhenxu94/chatgpt-java)
 <!--END_SECTION:activity-->
 
 <!--
