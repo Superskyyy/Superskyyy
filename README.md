@@ -1,7 +1,7 @@
 <!--Introduction -->
 <h1 align="center">Hi 👋, I'm Superskyyy</h1>
 
-<strong> If you are a OSPP student looking for mentor, you can still reach out to me. </strong>
+<strong> If you are a potential 2024 GSOC/OSPP/GSOD student looking for mentor, you can still reach out to me. </strong>
 
 <!-- TODO: Refactor to https://metrics.lecoq.io/ self-hosted version  https://github.com/lowlighter/metrics#-documentation
  -->
