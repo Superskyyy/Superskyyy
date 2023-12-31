@@ -12,9 +12,8 @@
 Join us and work together on the AIOps Engine for Apache SkyWalking! - https://github.com/SkyAPM/aiops-engine-for-skywalking
 
 Upcoming new tools available to the SkyWalking community:
-1. A translation project that would appreciate more non-code contributors (Transifex).
-2. A preview of AIOps engine (URI Grouping, Log clustering and Metric anomaly detection)
-3. POC - Root Cause Analysis (RCA) for Apache SkyWalking topology and metrics.
+0. Currently ON: A preview of AIOps engine feature (URI Grouping, Log clustering and Metric anomaly detection)
+1. POC - Root Cause Analysis (RCA) for Apache SkyWalking topology and metrics.
 
 
 :bow_and_arrow: Mentor of 2022/2023 Open Source Promotion Plan (OSPP) @ [Apache SkyWalking](https://github.com/apache/skywalking)
