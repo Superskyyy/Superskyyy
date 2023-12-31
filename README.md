@@ -1,9 +1,7 @@
 <!--Introduction -->
 <h1 align="center">Hi 👋, I'm Superskyyy</h1>
 
-<strong> I'm temporarily away to focus on research, please reach me via email/wechat if for urgent matters. </strong>
-
-<strong> If you are a student looking for mentor, this year I'm full and will not be able to take more students for 1-on-1 mentoring, but you can still reach out to me and I will relay you to other mentors </strong>
+<strong> If you are a OSPP student looking for mentor, you can still reach out to me. </strong>
 
 <!-- TODO: Refactor to https://metrics.lecoq.io/ self-hosted version  https://github.com/lowlighter/metrics#-documentation
  -->
@@ -30,23 +28,12 @@ Upcoming new tools available to the SkyWalking community:
 <!--
 ### Task List
 
-#### SkyWalking-Python
-- [x] Change from kafka/kafka-python to confluent-kafka. 
-- [ ] Rewrite monkey patch with Wrapt. - low priority
-- [ ] Rewrite web framework plugins with middleware.
-- [ ] https://github.com/apache/skywalking-python/pull/167#discussion_r732387359 - pending
-
-#### SkyWalking-SWCK
-- [ ] Python Agent Injector
-
 #### SkyWalking
 - [ ] AIOps pipeline
 - [ ] Ray integration
 
 #### Ideas
 
-- SkyWalking integration with Nonebot2
-- CHAOSS analysis of SkyWalking ecosystem
 -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Superskyyy)](https://git.io/streak-stats)
 
