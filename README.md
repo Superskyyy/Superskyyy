@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#670](https://github.com/apache/skywalking-website/pull/670#issuecomment-1872464120) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
-2. 💪 Opened PR [#670](https://github.com/apache/skywalking-website/pull/670) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
-3. 🗣 Commented on [#11708](https://github.com/apache/skywalking/issues/11708#issuecomment-1871789623) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 🔒 Closed issue [#11708](https://github.com/apache/skywalking/issues/11708) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🗣 Commented on [#58](https://github.com/kezhenxu94/chatgpt-java/issues/58#issuecomment-1871699032) in [kezhenxu94/chatgpt-java](https://github.com/kezhenxu94/chatgpt-java)
+1. 🗣 Commented on [#45](https://github.com/logpai/Drain3/issues/45#issuecomment-1874654504) in [logpai/Drain3](https://github.com/logpai/Drain3)
+2. 🗣 Commented on [#670](https://github.com/apache/skywalking-website/pull/670#issuecomment-1872464120) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+3. 💪 Opened PR [#670](https://github.com/apache/skywalking-website/pull/670) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+4. 🗣 Commented on [#11708](https://github.com/apache/skywalking/issues/11708#issuecomment-1871789623) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🔒 Closed issue [#11708](https://github.com/apache/skywalking/issues/11708) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
