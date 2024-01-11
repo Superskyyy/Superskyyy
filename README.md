@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11717](https://github.com/apache/skywalking/issues/11717#issuecomment-1874788169) in [apache/skywalking](https://github.com/apache/skywalking)
-2. 🗣 Commented on [#45](https://github.com/logpai/Drain3/issues/45#issuecomment-1874654504) in [logpai/Drain3](https://github.com/logpai/Drain3)
-3. 🗣 Commented on [#670](https://github.com/apache/skywalking-website/pull/670#issuecomment-1872464120) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
-4. 💪 Opened PR [#670](https://github.com/apache/skywalking-website/pull/670) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
-5. 🗣 Commented on [#11708](https://github.com/apache/skywalking/issues/11708#issuecomment-1871789623) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 🗣 Commented on [#8532](https://github.com/microsoft/vscode-remote-release/issues/8532#issuecomment-1887569634) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+2. 🗣 Commented on [#11717](https://github.com/apache/skywalking/issues/11717#issuecomment-1874788169) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 🗣 Commented on [#45](https://github.com/logpai/Drain3/issues/45#issuecomment-1874654504) in [logpai/Drain3](https://github.com/logpai/Drain3)
+4. 🗣 Commented on [#670](https://github.com/apache/skywalking-website/pull/670#issuecomment-1872464120) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+5. 💪 Opened PR [#670](https://github.com/apache/skywalking-website/pull/670) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
 <!--END_SECTION:activity-->
 
 <!--
