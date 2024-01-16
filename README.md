@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#332](https://github.com/apache/skywalking-python/pull/332) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-2. 🗣 Commented on [#12337](https://github.com/ray-project/ray/issues/12337#issuecomment-1892273758) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#8532](https://github.com/microsoft/vscode-remote-release/issues/8532#issuecomment-1887569634) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
-4. 🗣 Commented on [#11717](https://github.com/apache/skywalking/issues/11717#issuecomment-1874788169) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🗣 Commented on [#45](https://github.com/logpai/Drain3/issues/45#issuecomment-1874654504) in [logpai/Drain3](https://github.com/logpai/Drain3)
+1. 🗣 Commented on [#12337](https://github.com/ray-project/ray/issues/12337#issuecomment-1893091747) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 💪 Opened PR [#332](https://github.com/apache/skywalking-python/pull/332) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+3. 🗣 Commented on [#12337](https://github.com/ray-project/ray/issues/12337#issuecomment-1892273758) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 🗣 Commented on [#8532](https://github.com/microsoft/vscode-remote-release/issues/8532#issuecomment-1887569634) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+5. 🗣 Commented on [#11717](https://github.com/apache/skywalking/issues/11717#issuecomment-1874788169) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
