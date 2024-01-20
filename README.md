@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2011](https://github.com/apache/brpc/issues/2011#issuecomment-1901122922) in [apache/brpc](https://github.com/apache/brpc)
-2. 🗣 Commented on [#156](https://github.com/apache/skywalking-showcase/pull/156#issuecomment-1897668996) in [apache/skywalking-showcase](https://github.com/apache/skywalking-showcase)
-3. 🗣 Commented on [#12337](https://github.com/ray-project/ray/issues/12337#issuecomment-1894843171) in [ray-project/ray](https://github.com/ray-project/ray)
-4. 🗣 Commented on [#31794](https://github.com/ray-project/ray/issues/31794#issuecomment-1894595230) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#32091](https://github.com/ray-project/ray/issues/32091#issuecomment-1893848208) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 🎉 Merged PR [#1](https://github.com/Superskyyy/R3/pull/1) in [Superskyyy/R3](https://github.com/Superskyyy/R3)
+2. 💪 Opened PR [#1](https://github.com/Superskyyy/R3/pull/1) in [Superskyyy/R3](https://github.com/Superskyyy/R3)
+3. 🗣 Commented on [#2011](https://github.com/apache/brpc/issues/2011#issuecomment-1901122922) in [apache/brpc](https://github.com/apache/brpc)
+4. 🗣 Commented on [#156](https://github.com/apache/skywalking-showcase/pull/156#issuecomment-1897668996) in [apache/skywalking-showcase](https://github.com/apache/skywalking-showcase)
+5. 🗣 Commented on [#12337](https://github.com/ray-project/ray/issues/12337#issuecomment-1894843171) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 <!--
