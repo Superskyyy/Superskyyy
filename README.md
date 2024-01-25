@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11772](https://github.com/apache/skywalking/pull/11772#issuecomment-1905335127) in [apache/skywalking](https://github.com/apache/skywalking)
-2. 🗣 Commented on [#9](https://github.com/SkyAPM/R3/issues/9#issuecomment-1905326399) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
-3. ❗ Opened issue [#9](https://github.com/SkyAPM/R3/issues/9) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
-4. 🎉 Merged PR [#1](https://github.com/Superskyyy/R3/pull/1) in [Superskyyy/R3](https://github.com/Superskyyy/R3)
-5. 💪 Opened PR [#1](https://github.com/Superskyyy/R3/pull/1) in [Superskyyy/R3](https://github.com/Superskyyy/R3)
+1. 🗣 Commented on [#208](https://github.com/apache/brpc/issues/208#issuecomment-1908815512) in [apache/brpc](https://github.com/apache/brpc)
+2. 🗣 Commented on [#11772](https://github.com/apache/skywalking/pull/11772#issuecomment-1905335127) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 🗣 Commented on [#9](https://github.com/SkyAPM/R3/issues/9#issuecomment-1905326399) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
+4. ❗ Opened issue [#9](https://github.com/SkyAPM/R3/issues/9) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
+5. 🎉 Merged PR [#1](https://github.com/Superskyyy/R3/pull/1) in [Superskyyy/R3](https://github.com/Superskyyy/R3)
 <!--END_SECTION:activity-->
 
 <!--
