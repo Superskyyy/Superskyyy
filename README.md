@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#806](https://github.com/devcontainers/features/issues/806) in [devcontainers/features](https://github.com/devcontainers/features)
-2. 🗣 Commented on [#208](https://github.com/apache/brpc/issues/208#issuecomment-1908815512) in [apache/brpc](https://github.com/apache/brpc)
-3. 🗣 Commented on [#11772](https://github.com/apache/skywalking/pull/11772#issuecomment-1905335127) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 🗣 Commented on [#9](https://github.com/SkyAPM/R3/issues/9#issuecomment-1905326399) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
-5. ❗ Opened issue [#9](https://github.com/SkyAPM/R3/issues/9) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
+1. 🗣 Commented on [#806](https://github.com/devcontainers/features/issues/806#issuecomment-1912840374) in [devcontainers/features](https://github.com/devcontainers/features)
+2. ❗ Opened issue [#806](https://github.com/devcontainers/features/issues/806) in [devcontainers/features](https://github.com/devcontainers/features)
+3. 🗣 Commented on [#208](https://github.com/apache/brpc/issues/208#issuecomment-1908815512) in [apache/brpc](https://github.com/apache/brpc)
+4. 🗣 Commented on [#11772](https://github.com/apache/skywalking/pull/11772#issuecomment-1905335127) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#9](https://github.com/SkyAPM/R3/issues/9#issuecomment-1905326399) in [SkyAPM/R3](https://github.com/SkyAPM/R3)
 <!--END_SECTION:activity-->
 
 <!--
