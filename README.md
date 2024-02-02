@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#803](https://github.com/microsoft/vscode-copilot-release/issues/803#issuecomment-1921486911) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
-2. ❗ Opened issue [#2531](https://github.com/apache/brpc/issues/2531) in [apache/brpc](https://github.com/apache/brpc)
-3. 🗣 Commented on [#11837](https://github.com/apache/skywalking/pull/11837#issuecomment-1918215058) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 🗣 Commented on [#11837](https://github.com/apache/skywalking/pull/11837#issuecomment-1918154309) in [apache/skywalking](https://github.com/apache/skywalking)
-5. ❗ Opened issue [#803](https://github.com/microsoft/vscode-copilot-release/issues/803) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
+1. 🗣 Commented on [#2533](https://github.com/apache/brpc/issues/2533#issuecomment-1924255230) in [apache/brpc](https://github.com/apache/brpc)
+2. 🗣 Commented on [#803](https://github.com/microsoft/vscode-copilot-release/issues/803#issuecomment-1921486911) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
+3. ❗ Opened issue [#2531](https://github.com/apache/brpc/issues/2531) in [apache/brpc](https://github.com/apache/brpc)
+4. 🗣 Commented on [#11837](https://github.com/apache/skywalking/pull/11837#issuecomment-1918215058) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#11837](https://github.com/apache/skywalking/pull/11837#issuecomment-1918154309) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
