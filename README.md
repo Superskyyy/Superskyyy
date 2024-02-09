@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#670](https://github.com/apache/skywalking-website/pull/670) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
-2. 🗣 Commented on [#670](https://github.com/apache/skywalking-website/pull/670#issuecomment-1934546507) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
-3. ❗ Opened issue [#2537](https://github.com/apache/brpc/issues/2537) in [apache/brpc](https://github.com/apache/brpc)
-4. 🗣 Commented on [#2533](https://github.com/apache/brpc/issues/2533#issuecomment-1925902304) in [apache/brpc](https://github.com/apache/brpc)
-5. 🗣 Commented on [#11868](https://github.com/apache/skywalking/issues/11868#issuecomment-1925894743) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 🗣 Commented on [#2475](https://github.com/apache/brpc/issues/2475#issuecomment-1934799033) in [apache/brpc](https://github.com/apache/brpc)
+2. ❌ Closed PR [#670](https://github.com/apache/skywalking-website/pull/670) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+3. 🗣 Commented on [#670](https://github.com/apache/skywalking-website/pull/670#issuecomment-1934546507) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+4. ❗ Opened issue [#2537](https://github.com/apache/brpc/issues/2537) in [apache/brpc](https://github.com/apache/brpc)
+5. 🗣 Commented on [#2533](https://github.com/apache/brpc/issues/2533#issuecomment-1925902304) in [apache/brpc](https://github.com/apache/brpc)
 <!--END_SECTION:activity-->
 
 <!--
