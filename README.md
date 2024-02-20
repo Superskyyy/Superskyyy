@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#676](https://github.com/apache/skywalking-website/pull/676) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
-2. 🗣 Commented on [#94](https://github.com/logpai/Drain3/issues/94#issuecomment-1953067790) in [logpai/Drain3](https://github.com/logpai/Drain3)
-3. 🗣 Commented on [#678](https://github.com/apache/skywalking-website/pull/678#issuecomment-1952903134) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
-4. 💪 Opened PR [#678](https://github.com/apache/skywalking-website/pull/678) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
-5. 🗣 Commented on [#11892](https://github.com/apache/skywalking/pull/11892#issuecomment-1952860980) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 💪 Opened PR [#679](https://github.com/apache/skywalking-website/pull/679) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+2. 🎉 Merged PR [#676](https://github.com/apache/skywalking-website/pull/676) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+3. 🗣 Commented on [#94](https://github.com/logpai/Drain3/issues/94#issuecomment-1953067790) in [logpai/Drain3](https://github.com/logpai/Drain3)
+4. 🗣 Commented on [#678](https://github.com/apache/skywalking-website/pull/678#issuecomment-1952903134) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+5. 💪 Opened PR [#678](https://github.com/apache/skywalking-website/pull/678) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
 <!--END_SECTION:activity-->
 
 <!--
