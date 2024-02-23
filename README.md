@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#680](https://github.com/apache/skywalking-website/pull/680) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
-2. 🗣 Commented on [#679](https://github.com/apache/skywalking-website/pull/679#issuecomment-1958714489) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
-3. 💪 Opened PR [#680](https://github.com/apache/skywalking-website/pull/680) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
-4. 🗣 Commented on [#34846](https://github.com/ray-project/ray/issues/34846#issuecomment-1955736402) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#1255](https://github.com/apache/brpc/issues/1255#issuecomment-1955121870) in [apache/brpc](https://github.com/apache/brpc)
+1. 🗣 Commented on [#1947](https://github.com/apache/brpc/pull/1947#issuecomment-1960583840) in [apache/brpc](https://github.com/apache/brpc)
+2. 🎉 Merged PR [#680](https://github.com/apache/skywalking-website/pull/680) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+3. 🗣 Commented on [#679](https://github.com/apache/skywalking-website/pull/679#issuecomment-1958714489) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+4. 💪 Opened PR [#680](https://github.com/apache/skywalking-website/pull/680) in [apache/skywalking-website](https://github.com/apache/skywalking-website)
+5. 🗣 Commented on [#34846](https://github.com/ray-project/ray/issues/34846#issuecomment-1955736402) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 <!--
