@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12004](https://github.com/apache/skywalking/issues/12004#issuecomment-1988948371) in [apache/skywalking](https://github.com/apache/skywalking)
-2. 🗣 Commented on [#2564](https://github.com/apache/brpc/issues/2564#issuecomment-1985937413) in [apache/brpc](https://github.com/apache/brpc)
-3. ❗ Opened issue [#2564](https://github.com/apache/brpc/issues/2564) in [apache/brpc](https://github.com/apache/brpc)
-4. 🗣 Commented on [#2555](https://github.com/apache/brpc/issues/2555#issuecomment-1985019741) in [apache/brpc](https://github.com/apache/brpc)
-5. 🗣 Commented on [#2555](https://github.com/apache/brpc/issues/2555#issuecomment-1982298831) in [apache/brpc](https://github.com/apache/brpc)
+1. 🗣 Commented on [#2546](https://github.com/apache/brpc/pull/2546#issuecomment-1992555200) in [apache/brpc](https://github.com/apache/brpc)
+2. 🗣 Commented on [#12007](https://github.com/apache/skywalking/issues/12007#issuecomment-1992371706) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 🗣 Commented on [#12004](https://github.com/apache/skywalking/issues/12004#issuecomment-1988948371) in [apache/skywalking](https://github.com/apache/skywalking)
+4. 🗣 Commented on [#2564](https://github.com/apache/brpc/issues/2564#issuecomment-1985937413) in [apache/brpc](https://github.com/apache/brpc)
+5. ❗ Opened issue [#2564](https://github.com/apache/brpc/issues/2564) in [apache/brpc](https://github.com/apache/brpc)
 <!--END_SECTION:activity-->
 
 <!--
