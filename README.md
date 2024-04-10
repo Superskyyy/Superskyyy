@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12068](https://github.com/apache/skywalking/issues/12068#issuecomment-2038564081) in [apache/skywalking](https://github.com/apache/skywalking)
-2. 🗣 Commented on [#12075](https://github.com/apache/skywalking/issues/12075#issuecomment-2038280425) in [apache/skywalking](https://github.com/apache/skywalking)
-3. 🗣 Commented on [#12068](https://github.com/apache/skywalking/issues/12068#issuecomment-2034693676) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 🗣 Commented on [#12068](https://github.com/apache/skywalking/issues/12068#issuecomment-2033436842) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🗣 Commented on [#676](https://github.com/apache/skywalking-java/pull/676#issuecomment-2010524334) in [apache/skywalking-java](https://github.com/apache/skywalking-java)
+1. 🗣 Commented on [#336](https://github.com/apache/skywalking-python/pull/336#issuecomment-2046238790) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+2. 🗣 Commented on [#12068](https://github.com/apache/skywalking/issues/12068#issuecomment-2038564081) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 🗣 Commented on [#12075](https://github.com/apache/skywalking/issues/12075#issuecomment-2038280425) in [apache/skywalking](https://github.com/apache/skywalking)
+4. 🗣 Commented on [#12068](https://github.com/apache/skywalking/issues/12068#issuecomment-2034693676) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#12068](https://github.com/apache/skywalking/issues/12068#issuecomment-2033436842) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
