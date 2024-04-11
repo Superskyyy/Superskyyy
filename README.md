@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#336](https://github.com/apache/skywalking-python/pull/336#issuecomment-2046238790) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
-2. 🗣 Commented on [#12068](https://github.com/apache/skywalking/issues/12068#issuecomment-2038564081) in [apache/skywalking](https://github.com/apache/skywalking)
-3. 🗣 Commented on [#12075](https://github.com/apache/skywalking/issues/12075#issuecomment-2038280425) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 🗣 Commented on [#12068](https://github.com/apache/skywalking/issues/12068#issuecomment-2034693676) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🗣 Commented on [#12068](https://github.com/apache/skywalking/issues/12068#issuecomment-2033436842) in [apache/skywalking](https://github.com/apache/skywalking)
+1. 🗣 Commented on [#336](https://github.com/apache/skywalking-python/pull/336#issuecomment-2049470579) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+2. 🗣 Commented on [#336](https://github.com/apache/skywalking-python/pull/336#issuecomment-2049464206) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+3. 💪 Opened PR [#337](https://github.com/apache/skywalking-python/pull/337) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+4. 🗣 Commented on [#336](https://github.com/apache/skywalking-python/pull/336#issuecomment-2049456059) in [apache/skywalking-python](https://github.com/apache/skywalking-python)
+5. 🗣 Commented on [#788](https://github.com/libbpf/libbpf/issues/788#issuecomment-2049451181) in [libbpf/libbpf](https://github.com/libbpf/libbpf)
 <!--END_SECTION:activity-->
 
 <!--
