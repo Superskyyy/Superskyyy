@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#179](https://github.com/apache/skywalking-go/pull/179#issuecomment-2053472512) in [apache/skywalking-go](https://github.com/apache/skywalking-go)
-2. 🗣 Commented on [#44699](https://github.com/ray-project/ray/pull/44699#issuecomment-2051569414) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#44699](https://github.com/ray-project/ray/pull/44699#issuecomment-2051181796) in [ray-project/ray](https://github.com/ray-project/ray)
-4. 🗣 Commented on [#44699](https://github.com/ray-project/ray/pull/44699#issuecomment-2051174750) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 💪 Opened PR [#44699](https://github.com/ray-project/ray/pull/44699) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 🎉 Merged PR [#12119](https://github.com/apache/skywalking/pull/12119) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 💪 Opened PR [#12119](https://github.com/apache/skywalking/pull/12119) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 🗣 Commented on [#179](https://github.com/apache/skywalking-go/pull/179#issuecomment-2053472512) in [apache/skywalking-go](https://github.com/apache/skywalking-go)
+4. 🗣 Commented on [#44699](https://github.com/ray-project/ray/pull/44699#issuecomment-2051569414) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 🗣 Commented on [#44699](https://github.com/ray-project/ray/pull/44699#issuecomment-2051181796) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 <!--
