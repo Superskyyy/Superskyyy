@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/logpai/Drain3/pull/99#issuecomment-2074843343) in [logpai/Drain3](https://github.com/logpai/Drain3)
-2. ❌ Closed PR [#99](https://github.com/logpai/Drain3/pull/99) in [logpai/Drain3](https://github.com/logpai/Drain3)
-3. 🗣 Commented on [#90](https://github.com/logpai/Drain3/pull/90#issuecomment-2074839646) in [logpai/Drain3](https://github.com/logpai/Drain3)
-4. 🎉 Merged PR [#87](https://github.com/logpai/Drain3/pull/87) in [logpai/Drain3](https://github.com/logpai/Drain3)
-5. 🔒 Closed issue [#84](https://github.com/logpai/Drain3/issues/84) in [logpai/Drain3](https://github.com/logpai/Drain3)
+1. 🗣 Commented on [#512](https://github.com/microsoft/vscode-remote-release/issues/512#issuecomment-2074973216) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+2. 🗣 Commented on [#435](https://github.com/apache/skywalking-banyandb/pull/435#issuecomment-2074923563) in [apache/skywalking-banyandb](https://github.com/apache/skywalking-banyandb)
+3. 🗣 Commented on [#512](https://github.com/microsoft/vscode-remote-release/issues/512#issuecomment-2074899102) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+4. 🗣 Commented on [#97](https://github.com/logpai/Drain3/issues/97#issuecomment-2074868959) in [logpai/Drain3](https://github.com/logpai/Drain3)
+5. 🗣 Commented on [#97](https://github.com/logpai/Drain3/issues/97#issuecomment-2074865831) in [logpai/Drain3](https://github.com/logpai/Drain3)
 <!--END_SECTION:activity-->
 
 <!--
