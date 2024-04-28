@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#512](https://github.com/microsoft/vscode-remote-release/issues/512#issuecomment-2076445247) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
-2. 🗣 Commented on [#97](https://github.com/logpai/Drain3/issues/97#issuecomment-2076186562) in [logpai/Drain3](https://github.com/logpai/Drain3)
-3. 🗣 Commented on [#512](https://github.com/microsoft/vscode-remote-release/issues/512#issuecomment-2074973216) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
-4. 🗣 Commented on [#435](https://github.com/apache/skywalking-banyandb/pull/435#issuecomment-2074923563) in [apache/skywalking-banyandb](https://github.com/apache/skywalking-banyandb)
-5. 🗣 Commented on [#512](https://github.com/microsoft/vscode-remote-release/issues/512#issuecomment-2074899102) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+1. 🗣 Commented on [#512](https://github.com/microsoft/vscode-remote-release/issues/512#issuecomment-2081358389) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+2. 🗣 Commented on [#512](https://github.com/microsoft/vscode-remote-release/issues/512#issuecomment-2076445247) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+3. 🗣 Commented on [#97](https://github.com/logpai/Drain3/issues/97#issuecomment-2076186562) in [logpai/Drain3](https://github.com/logpai/Drain3)
+4. 🗣 Commented on [#512](https://github.com/microsoft/vscode-remote-release/issues/512#issuecomment-2074973216) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+5. 🗣 Commented on [#435](https://github.com/apache/skywalking-banyandb/pull/435#issuecomment-2074923563) in [apache/skywalking-banyandb](https://github.com/apache/skywalking-banyandb)
 <!--END_SECTION:activity-->
 
 <!--
