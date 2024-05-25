@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/pcg-mlp/KsanaLLM/issues/4) in [pcg-mlp/KsanaLLM](https://github.com/pcg-mlp/KsanaLLM)
-2. 💪 Opened PR [#3](https://github.com/pcg-mlp/KsanaLLM/pull/3) in [pcg-mlp/KsanaLLM](https://github.com/pcg-mlp/KsanaLLM)
-3. 🗣 Commented on [#12068](https://github.com/apache/skywalking/issues/12068#issuecomment-2130701045) in [apache/skywalking](https://github.com/apache/skywalking)
-4. 🔒 Closed issue [#12068](https://github.com/apache/skywalking/issues/12068) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🗣 Commented on [#2602](https://github.com/apache/brpc/pull/2602#issuecomment-2128949264) in [apache/brpc](https://github.com/apache/brpc)
+1. 🗣 Commented on [#57](https://github.com/apache/skywalking-banyandb-java-client/pull/57#issuecomment-2131154425) in [apache/skywalking-banyandb-java-client](https://github.com/apache/skywalking-banyandb-java-client)
+2. 🗣 Commented on [#57](https://github.com/apache/skywalking-banyandb-java-client/pull/57#issuecomment-2131147844) in [apache/skywalking-banyandb-java-client](https://github.com/apache/skywalking-banyandb-java-client)
+3. 🗣 Commented on [#57](https://github.com/apache/skywalking-banyandb-java-client/pull/57#issuecomment-2131111665) in [apache/skywalking-banyandb-java-client](https://github.com/apache/skywalking-banyandb-java-client)
+4. 💪 Opened PR [#57](https://github.com/apache/skywalking-banyandb-java-client/pull/57) in [apache/skywalking-banyandb-java-client](https://github.com/apache/skywalking-banyandb-java-client)
+5. ❗ Opened issue [#4](https://github.com/pcg-mlp/KsanaLLM/issues/4) in [pcg-mlp/KsanaLLM](https://github.com/pcg-mlp/KsanaLLM)
 <!--END_SECTION:activity-->
 
 <!--
