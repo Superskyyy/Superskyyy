@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2602](https://github.com/apache/brpc/pull/2602#issuecomment-2128949264) in [apache/brpc](https://github.com/apache/brpc)
-2. 🗣 Commented on [#4469](https://github.com/grafana/grafana/issues/4469#issuecomment-2084389214) in [grafana/grafana](https://github.com/grafana/grafana)
-3. 🗣 Commented on [#512](https://github.com/microsoft/vscode-remote-release/issues/512#issuecomment-2081358389) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
-4. 🗣 Commented on [#512](https://github.com/microsoft/vscode-remote-release/issues/512#issuecomment-2076445247) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
-5. 🗣 Commented on [#97](https://github.com/logpai/Drain3/issues/97#issuecomment-2076186562) in [logpai/Drain3](https://github.com/logpai/Drain3)
+1. ❗ Opened issue [#4](https://github.com/pcg-mlp/KsanaLLM/issues/4) in [pcg-mlp/KsanaLLM](https://github.com/pcg-mlp/KsanaLLM)
+2. 💪 Opened PR [#3](https://github.com/pcg-mlp/KsanaLLM/pull/3) in [pcg-mlp/KsanaLLM](https://github.com/pcg-mlp/KsanaLLM)
+3. 🗣 Commented on [#12068](https://github.com/apache/skywalking/issues/12068#issuecomment-2130701045) in [apache/skywalking](https://github.com/apache/skywalking)
+4. 🔒 Closed issue [#12068](https://github.com/apache/skywalking/issues/12068) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#2602](https://github.com/apache/brpc/pull/2602#issuecomment-2128949264) in [apache/brpc](https://github.com/apache/brpc)
 <!--END_SECTION:activity-->
 
 <!--
