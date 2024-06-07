@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/pcg-mlp/KsanaLLM/issues/4#issuecomment-2151326495) in [pcg-mlp/KsanaLLM](https://github.com/pcg-mlp/KsanaLLM)
-2. 🗣 Commented on [#4](https://github.com/pcg-mlp/KsanaLLM/issues/4#issuecomment-2150574638) in [pcg-mlp/KsanaLLM](https://github.com/pcg-mlp/KsanaLLM)
-3. 🗣 Commented on [#4](https://github.com/pcg-mlp/KsanaLLM/issues/4#issuecomment-2134333636) in [pcg-mlp/KsanaLLM](https://github.com/pcg-mlp/KsanaLLM)
-4. 🗣 Commented on [#12255](https://github.com/apache/skywalking/issues/12255#issuecomment-2133052158) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🗣 Commented on [#57](https://github.com/apache/skywalking-banyandb-java-client/pull/57#issuecomment-2131154425) in [apache/skywalking-banyandb-java-client](https://github.com/apache/skywalking-banyandb-java-client)
+1. 🗣 Commented on [#464](https://github.com/apache/skywalking-banyandb/pull/464#issuecomment-2153623633) in [apache/skywalking-banyandb](https://github.com/apache/skywalking-banyandb)
+2. 🗣 Commented on [#4](https://github.com/pcg-mlp/KsanaLLM/issues/4#issuecomment-2151326495) in [pcg-mlp/KsanaLLM](https://github.com/pcg-mlp/KsanaLLM)
+3. 🗣 Commented on [#4](https://github.com/pcg-mlp/KsanaLLM/issues/4#issuecomment-2150574638) in [pcg-mlp/KsanaLLM](https://github.com/pcg-mlp/KsanaLLM)
+4. 🗣 Commented on [#4](https://github.com/pcg-mlp/KsanaLLM/issues/4#issuecomment-2134333636) in [pcg-mlp/KsanaLLM](https://github.com/pcg-mlp/KsanaLLM)
+5. 🗣 Commented on [#12255](https://github.com/apache/skywalking/issues/12255#issuecomment-2133052158) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
