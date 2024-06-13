@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12312](https://github.com/apache/skywalking/issues/12312#issuecomment-2156674300) in [apache/skywalking](https://github.com/apache/skywalking)
-2. 🗣 Commented on [#464](https://github.com/apache/skywalking-banyandb/pull/464#issuecomment-2153623633) in [apache/skywalking-banyandb](https://github.com/apache/skywalking-banyandb)
-3. 🗣 Commented on [#4](https://github.com/pcg-mlp/KsanaLLM/issues/4#issuecomment-2151326495) in [pcg-mlp/KsanaLLM](https://github.com/pcg-mlp/KsanaLLM)
-4. 🗣 Commented on [#4](https://github.com/pcg-mlp/KsanaLLM/issues/4#issuecomment-2150574638) in [pcg-mlp/KsanaLLM](https://github.com/pcg-mlp/KsanaLLM)
-5. 🗣 Commented on [#4](https://github.com/pcg-mlp/KsanaLLM/issues/4#issuecomment-2134333636) in [pcg-mlp/KsanaLLM](https://github.com/pcg-mlp/KsanaLLM)
+1. 🗣 Commented on [#249](https://github.com/ant-design/pro-chat/issues/249#issuecomment-2165366841) in [ant-design/pro-chat](https://github.com/ant-design/pro-chat)
+2. ❗ Opened issue [#249](https://github.com/ant-design/pro-chat/issues/249) in [ant-design/pro-chat](https://github.com/ant-design/pro-chat)
+3. 🗣 Commented on [#12333](https://github.com/apache/skywalking/issues/12333#issuecomment-2165331634) in [apache/skywalking](https://github.com/apache/skywalking)
+4. ❗ Opened issue [#12333](https://github.com/apache/skywalking/issues/12333) in [apache/skywalking](https://github.com/apache/skywalking)
+5. 🗣 Commented on [#12312](https://github.com/apache/skywalking/issues/12312#issuecomment-2156674300) in [apache/skywalking](https://github.com/apache/skywalking)
 <!--END_SECTION:activity-->
 
 <!--
