@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45928](https://github.com/ray-project/ray/issues/45928#issuecomment-2198555000) in [ray-project/ray](https://github.com/ray-project/ray)
-2. 🗣 Commented on [#46333](https://github.com/ray-project/ray/issues/46333#issuecomment-2197853060) in [ray-project/ray](https://github.com/ray-project/ray)
-3. ❗ Opened issue [#258](https://github.com/ant-design/pro-chat/issues/258) in [ant-design/pro-chat](https://github.com/ant-design/pro-chat)
-4. 🗣 Commented on [#230](https://github.com/ant-design/pro-chat/issues/230#issuecomment-2179932343) in [ant-design/pro-chat](https://github.com/ant-design/pro-chat)
-5. 🗣 Commented on [#249](https://github.com/ant-design/pro-chat/issues/249#issuecomment-2165366841) in [ant-design/pro-chat](https://github.com/ant-design/pro-chat)
+1. 💪 Opened PR [#46352](https://github.com/ray-project/ray/pull/46352) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🗣 Commented on [#45928](https://github.com/ray-project/ray/issues/45928#issuecomment-2198555000) in [ray-project/ray](https://github.com/ray-project/ray)
+3. 🗣 Commented on [#46333](https://github.com/ray-project/ray/issues/46333#issuecomment-2197853060) in [ray-project/ray](https://github.com/ray-project/ray)
+4. ❗ Opened issue [#258](https://github.com/ant-design/pro-chat/issues/258) in [ant-design/pro-chat](https://github.com/ant-design/pro-chat)
+5. 🗣 Commented on [#230](https://github.com/ant-design/pro-chat/issues/230#issuecomment-2179932343) in [ant-design/pro-chat](https://github.com/ant-design/pro-chat)
 <!--END_SECTION:activity-->
 
 <!--
