@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46666](https://github.com/ray-project/ray/issues/46666#issuecomment-2232504598) in [ray-project/ray](https://github.com/ray-project/ray)
-2. 🗣 Commented on [#46384](https://github.com/ray-project/ray/issues/46384#issuecomment-2221682347) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#46485](https://github.com/ray-project/ray/issues/46485#issuecomment-2217716361) in [ray-project/ray](https://github.com/ray-project/ray)
-4. 🗣 Commented on [#30182](https://github.com/ray-project/ray/issues/30182#issuecomment-2211692492) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#46453](https://github.com/ray-project/ray/issues/46453#issuecomment-2211479405) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 🗣 Commented on [#46423](https://github.com/ray-project/ray/pull/46423#issuecomment-2235971746) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🗣 Commented on [#46666](https://github.com/ray-project/ray/issues/46666#issuecomment-2235955791) in [ray-project/ray](https://github.com/ray-project/ray)
+3. 🗣 Commented on [#46666](https://github.com/ray-project/ray/issues/46666#issuecomment-2232504598) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 🗣 Commented on [#46384](https://github.com/ray-project/ray/issues/46384#issuecomment-2221682347) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 🗣 Commented on [#46485](https://github.com/ray-project/ray/issues/46485#issuecomment-2217716361) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 <!--
