@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#202](https://github.com/cirospaciari/socketify.py/issues/202#issuecomment-2439762982) in [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py)
-2. 🔒 Closed issue [#202](https://github.com/cirospaciari/socketify.py/issues/202) in [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py)
-3. 🗣 Commented on [#42882](https://github.com/ray-project/ray/issues/42882#issuecomment-2439669566) in [ray-project/ray](https://github.com/ray-project/ray)
-4. 🗣 Commented on [#202](https://github.com/cirospaciari/socketify.py/issues/202#issuecomment-2439667348) in [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py)
-5. ❗ Opened issue [#202](https://github.com/cirospaciari/socketify.py/issues/202) in [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py)
+1. 🗣 Commented on [#48235](https://github.com/ray-project/ray/issues/48235#issuecomment-2441874728) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🗣 Commented on [#48235](https://github.com/ray-project/ray/issues/48235#issuecomment-2441868834) in [ray-project/ray](https://github.com/ray-project/ray)
+3. 🗣 Commented on [#202](https://github.com/cirospaciari/socketify.py/issues/202#issuecomment-2439762982) in [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py)
+4. 🔒 Closed issue [#202](https://github.com/cirospaciari/socketify.py/issues/202) in [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py)
+5. 🗣 Commented on [#42882](https://github.com/ray-project/ray/issues/42882#issuecomment-2439669566) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 <!--
