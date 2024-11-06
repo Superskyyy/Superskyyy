@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48523](https://github.com/ray-project/ray/issues/48523#issuecomment-2455105857) in [ray-project/ray](https://github.com/ray-project/ray)
-2. 🗣 Commented on [#48235](https://github.com/ray-project/ray/issues/48235#issuecomment-2455100454) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#2472](https://github.com/ray-project/kuberay/pull/2472#issuecomment-2455035598) in [ray-project/kuberay](https://github.com/ray-project/kuberay)
-4. 🗣 Commented on [#3427](https://github.com/volcano-sh/volcano/issues/3427#issuecomment-2455007826) in [volcano-sh/volcano](https://github.com/volcano-sh/volcano)
-5. 🗣 Commented on [#48523](https://github.com/ray-project/ray/issues/48523#issuecomment-2453461091) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 🗣 Commented on [#48561](https://github.com/ray-project/ray/issues/48561#issuecomment-2457439891) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🗣 Commented on [#8054](https://github.com/vllm-project/vllm/pull/8054#issuecomment-2457420188) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+3. 🗣 Commented on [#48523](https://github.com/ray-project/ray/issues/48523#issuecomment-2457241451) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 🗣 Commented on [#48523](https://github.com/ray-project/ray/issues/48523#issuecomment-2455105857) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 🗣 Commented on [#48235](https://github.com/ray-project/ray/issues/48235#issuecomment-2455100454) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 <!--
