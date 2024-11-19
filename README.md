@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48759](https://github.com/ray-project/ray/issues/48759#issuecomment-2483391197) in [ray-project/ray](https://github.com/ray-project/ray)
-2. 🗣 Commented on [#3550](https://github.com/hedgedoc/hedgedoc/issues/3550#issuecomment-2469023315) in [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)
-3. 🎉 Merged PR [#56](https://github.com/Superskyyy/ray/pull/56) in [Superskyyy/ray](https://github.com/Superskyyy/ray)
-4. 🗣 Commented on [#48656](https://github.com/ray-project/ray/issues/48656#issuecomment-2465567932) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#48521](https://github.com/ray-project/ray/issues/48521#issuecomment-2464963226) in [ray-project/ray](https://github.com/ray-project/ray)
+1. ❗ Opened issue [#5877](https://github.com/hedgedoc/hedgedoc/issues/5877) in [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)
+2. 🗣 Commented on [#48759](https://github.com/ray-project/ray/issues/48759#issuecomment-2483391197) in [ray-project/ray](https://github.com/ray-project/ray)
+3. 🗣 Commented on [#3550](https://github.com/hedgedoc/hedgedoc/issues/3550#issuecomment-2469023315) in [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)
+4. 🎉 Merged PR [#56](https://github.com/Superskyyy/ray/pull/56) in [Superskyyy/ray](https://github.com/Superskyyy/ray)
+5. 🗣 Commented on [#48656](https://github.com/ray-project/ray/issues/48656#issuecomment-2465567932) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 <!--
