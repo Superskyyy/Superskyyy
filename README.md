@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1887](https://github.com/apache/fury/issues/1887#issuecomment-2486515858) in [apache/fury](https://github.com/apache/fury)
-2. 🗣 Commented on [#48801](https://github.com/ray-project/ray/issues/48801#issuecomment-2486491173) in [ray-project/ray](https://github.com/ray-project/ray)
-3. ❗ Opened issue [#5877](https://github.com/hedgedoc/hedgedoc/issues/5877) in [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)
-4. 🗣 Commented on [#48759](https://github.com/ray-project/ray/issues/48759#issuecomment-2483391197) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#3550](https://github.com/hedgedoc/hedgedoc/issues/3550#issuecomment-2469023315) in [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)
+1. 🗣 Commented on [#48801](https://github.com/ray-project/ray/issues/48801#issuecomment-2486830808) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🗣 Commented on [#48689](https://github.com/ray-project/ray/issues/48689#issuecomment-2486676902) in [ray-project/ray](https://github.com/ray-project/ray)
+3. 🗣 Commented on [#1887](https://github.com/apache/fury/issues/1887#issuecomment-2486515858) in [apache/fury](https://github.com/apache/fury)
+4. 🗣 Commented on [#48801](https://github.com/ray-project/ray/issues/48801#issuecomment-2486491173) in [ray-project/ray](https://github.com/ray-project/ray)
+5. ❗ Opened issue [#5877](https://github.com/hedgedoc/hedgedoc/issues/5877) in [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)
 <!--END_SECTION:activity-->
 
 <!--
