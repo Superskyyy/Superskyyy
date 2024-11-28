@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3542](https://github.com/kubernetes/enhancements/issues/3542#issuecomment-2498681443) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-2. 🗣 Commented on [#48871](https://github.com/ray-project/ray/pull/48871#issuecomment-2498534248) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#48871](https://github.com/ray-project/ray/pull/48871#issuecomment-2494759150) in [ray-project/ray](https://github.com/ray-project/ray)
-4. 🗣 Commented on [#48871](https://github.com/ray-project/ray/pull/48871#issuecomment-2494608372) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#48871](https://github.com/ray-project/ray/pull/48871#issuecomment-2494600836) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 🗣 Commented on [#48974](https://github.com/ray-project/ray/issues/48974#issuecomment-2505142406) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🗣 Commented on [#48926](https://github.com/ray-project/ray/issues/48926#issuecomment-2504769148) in [ray-project/ray](https://github.com/ray-project/ray)
+3. 🗣 Commented on [#48224](https://github.com/ray-project/ray/issues/48224#issuecomment-2504758213) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 🗣 Commented on [#48926](https://github.com/ray-project/ray/issues/48926#issuecomment-2504742184) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 💪 Opened PR [#48969](https://github.com/ray-project/ray/pull/48969) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 <!--
