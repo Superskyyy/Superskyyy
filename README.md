@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48521](https://github.com/ray-project/ray/issues/48521#issuecomment-2543324692) in [ray-project/ray](https://github.com/ray-project/ray)
-2. 🗣 Commented on [#48974](https://github.com/ray-project/ray/issues/48974#issuecomment-2505142406) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#48926](https://github.com/ray-project/ray/issues/48926#issuecomment-2504769148) in [ray-project/ray](https://github.com/ray-project/ray)
-4. 🗣 Commented on [#48224](https://github.com/ray-project/ray/issues/48224#issuecomment-2504758213) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#48926](https://github.com/ray-project/ray/issues/48926#issuecomment-2504742184) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 🗣 Commented on [#466](https://github.com/run-llama/create-llama/issues/466#issuecomment-2556175836) in [run-llama/create-llama](https://github.com/run-llama/create-llama)
+2. 🗣 Commented on [#466](https://github.com/run-llama/create-llama/issues/466#issuecomment-2556158031) in [run-llama/create-llama](https://github.com/run-llama/create-llama)
+3. 🗣 Commented on [#466](https://github.com/run-llama/create-llama/issues/466#issuecomment-2556143707) in [run-llama/create-llama](https://github.com/run-llama/create-llama)
+4. ❗ Opened issue [#466](https://github.com/run-llama/create-llama/issues/466) in [run-llama/create-llama](https://github.com/run-llama/create-llama)
+5. 🗣 Commented on [#48521](https://github.com/ray-project/ray/issues/48521#issuecomment-2543324692) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 <!--
