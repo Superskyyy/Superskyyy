@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2377](https://github.com/huggingface/trl/issues/2377#issuecomment-2591276847) in [huggingface/trl](https://github.com/huggingface/trl)
-2. 🗣 Commented on [#234](https://github.com/tarpas/pytest-testmon/issues/234#issuecomment-2573790495) in [tarpas/pytest-testmon](https://github.com/tarpas/pytest-testmon)
-3. 🗣 Commented on [#58](https://github.com/richards199999/Thinking-Claude/issues/58#issuecomment-2569652514) in [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude)
-4. 🗣 Commented on [#466](https://github.com/run-llama/create-llama/issues/466#issuecomment-2556175836) in [run-llama/create-llama](https://github.com/run-llama/create-llama)
-5. 🗣 Commented on [#466](https://github.com/run-llama/create-llama/issues/466#issuecomment-2556158031) in [run-llama/create-llama](https://github.com/run-llama/create-llama)
+1. 🗣 Commented on [#2540](https://github.com/huggingface/trl/pull/2540#issuecomment-2599485824) in [huggingface/trl](https://github.com/huggingface/trl)
+2. 🗣 Commented on [#2377](https://github.com/huggingface/trl/issues/2377#issuecomment-2591276847) in [huggingface/trl](https://github.com/huggingface/trl)
+3. 🗣 Commented on [#234](https://github.com/tarpas/pytest-testmon/issues/234#issuecomment-2573790495) in [tarpas/pytest-testmon](https://github.com/tarpas/pytest-testmon)
+4. 🗣 Commented on [#58](https://github.com/richards199999/Thinking-Claude/issues/58#issuecomment-2569652514) in [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude)
+5. 🗣 Commented on [#466](https://github.com/run-llama/create-llama/issues/466#issuecomment-2556175836) in [run-llama/create-llama](https://github.com/run-llama/create-llama)
 <!--END_SECTION:activity-->
 
 <!--
