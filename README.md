@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/Ablustrund/MPLSandbox/issues/3) in [Ablustrund/MPLSandbox](https://github.com/Ablustrund/MPLSandbox)
-2. 🗣 Commented on [#2577](https://github.com/huggingface/trl/issues/2577#issuecomment-2600526877) in [huggingface/trl](https://github.com/huggingface/trl)
-3. 🗣 Commented on [#2540](https://github.com/huggingface/trl/pull/2540#issuecomment-2600376260) in [huggingface/trl](https://github.com/huggingface/trl)
-4. 🗣 Commented on [#2540](https://github.com/huggingface/trl/pull/2540#issuecomment-2599485824) in [huggingface/trl](https://github.com/huggingface/trl)
-5. 🗣 Commented on [#2377](https://github.com/huggingface/trl/issues/2377#issuecomment-2591276847) in [huggingface/trl](https://github.com/huggingface/trl)
+1. 🗣 Commented on [#2555](https://github.com/huggingface/trl/issues/2555#issuecomment-2601378680) in [huggingface/trl](https://github.com/huggingface/trl)
+2. ❗ Opened issue [#3354](https://github.com/huggingface/accelerate/issues/3354) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
+3. ❗ Opened issue [#3](https://github.com/Ablustrund/MPLSandbox/issues/3) in [Ablustrund/MPLSandbox](https://github.com/Ablustrund/MPLSandbox)
+4. 🗣 Commented on [#2577](https://github.com/huggingface/trl/issues/2577#issuecomment-2600526877) in [huggingface/trl](https://github.com/huggingface/trl)
+5. 🗣 Commented on [#2540](https://github.com/huggingface/trl/pull/2540#issuecomment-2600376260) in [huggingface/trl](https://github.com/huggingface/trl)
 <!--END_SECTION:activity-->
 
 <!--
