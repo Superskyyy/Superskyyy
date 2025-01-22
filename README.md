@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2540](https://github.com/huggingface/trl/pull/2540#issuecomment-2603083270) in [huggingface/trl](https://github.com/huggingface/trl)
-2. 🗣 Commented on [#2555](https://github.com/huggingface/trl/issues/2555#issuecomment-2601378680) in [huggingface/trl](https://github.com/huggingface/trl)
-3. ❗ Opened issue [#3354](https://github.com/huggingface/accelerate/issues/3354) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
-4. ❗ Opened issue [#3](https://github.com/Ablustrund/MPLSandbox/issues/3) in [Ablustrund/MPLSandbox](https://github.com/Ablustrund/MPLSandbox)
-5. 🗣 Commented on [#2577](https://github.com/huggingface/trl/issues/2577#issuecomment-2600526877) in [huggingface/trl](https://github.com/huggingface/trl)
+1. 🗣 Commented on [#34984](https://github.com/huggingface/transformers/issues/34984#issuecomment-2605400043) in [huggingface/transformers](https://github.com/huggingface/transformers)
+2. 🗣 Commented on [#2540](https://github.com/huggingface/trl/pull/2540#issuecomment-2603083270) in [huggingface/trl](https://github.com/huggingface/trl)
+3. 🗣 Commented on [#2555](https://github.com/huggingface/trl/issues/2555#issuecomment-2601378680) in [huggingface/trl](https://github.com/huggingface/trl)
+4. ❗ Opened issue [#3354](https://github.com/huggingface/accelerate/issues/3354) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
+5. ❗ Opened issue [#3](https://github.com/Ablustrund/MPLSandbox/issues/3) in [Ablustrund/MPLSandbox](https://github.com/Ablustrund/MPLSandbox)
 <!--END_SECTION:activity-->
 
 <!--
