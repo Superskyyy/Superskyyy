@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2657](https://github.com/huggingface/trl/issues/2657) in [huggingface/trl](https://github.com/huggingface/trl)
-2. 🗣 Commented on [#50030](https://github.com/ray-project/ray/issues/50030#issuecomment-2613844867) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 💪 Opened PR [#2639](https://github.com/huggingface/trl/pull/2639) in [huggingface/trl](https://github.com/huggingface/trl)
-4. 🗣 Commented on [#2540](https://github.com/huggingface/trl/pull/2540#issuecomment-2608829687) in [huggingface/trl](https://github.com/huggingface/trl)
-5. 🗣 Commented on [#2529](https://github.com/huggingface/trl/issues/2529#issuecomment-2608573760) in [huggingface/trl](https://github.com/huggingface/trl)
+1. ❗ Opened issue [#695](https://github.com/OpenRLHF/OpenRLHF/issues/695) in [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
+2. 🗣 Commented on [#2657](https://github.com/huggingface/trl/issues/2657#issuecomment-2614193604) in [huggingface/trl](https://github.com/huggingface/trl)
+3. ❗ Opened issue [#2657](https://github.com/huggingface/trl/issues/2657) in [huggingface/trl](https://github.com/huggingface/trl)
+4. 🗣 Commented on [#50030](https://github.com/ray-project/ray/issues/50030#issuecomment-2613844867) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 💪 Opened PR [#2639](https://github.com/huggingface/trl/pull/2639) in [huggingface/trl](https://github.com/huggingface/trl)
 <!--END_SECTION:activity-->
 
 <!--
