@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2675](https://github.com/huggingface/trl/issues/2675#issuecomment-2620054078) in [huggingface/trl](https://github.com/huggingface/trl)
-2. 🗣 Commented on [#2676](https://github.com/huggingface/trl/pull/2676#issuecomment-2619474204) in [huggingface/trl](https://github.com/huggingface/trl)
-3. 🗣 Commented on [#2657](https://github.com/huggingface/trl/issues/2657#issuecomment-2614847364) in [huggingface/trl](https://github.com/huggingface/trl)
-4. ❗ Opened issue [#695](https://github.com/OpenRLHF/OpenRLHF/issues/695) in [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
-5. 🗣 Commented on [#2657](https://github.com/huggingface/trl/issues/2657#issuecomment-2614193604) in [huggingface/trl](https://github.com/huggingface/trl)
+1. 🗣 Commented on [#22689](https://github.com/huggingface/transformers/issues/22689#issuecomment-2620887479) in [huggingface/transformers](https://github.com/huggingface/transformers)
+2. 🗣 Commented on [#2675](https://github.com/huggingface/trl/issues/2675#issuecomment-2620054078) in [huggingface/trl](https://github.com/huggingface/trl)
+3. 🗣 Commented on [#2676](https://github.com/huggingface/trl/pull/2676#issuecomment-2619474204) in [huggingface/trl](https://github.com/huggingface/trl)
+4. 🗣 Commented on [#2657](https://github.com/huggingface/trl/issues/2657#issuecomment-2614847364) in [huggingface/trl](https://github.com/huggingface/trl)
+5. ❗ Opened issue [#695](https://github.com/OpenRLHF/OpenRLHF/issues/695) in [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
 <!--END_SECTION:activity-->
 
 <!--
