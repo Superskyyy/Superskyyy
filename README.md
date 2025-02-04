@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2751](https://github.com/huggingface/trl/issues/2751#issuecomment-2631519903) in [huggingface/trl](https://github.com/huggingface/trl)
-2. 🗣 Commented on [#2744](https://github.com/huggingface/trl/issues/2744#issuecomment-2629716199) in [huggingface/trl](https://github.com/huggingface/trl)
-3. 🗣 Commented on [#2719](https://github.com/huggingface/trl/issues/2719#issuecomment-2629074382) in [huggingface/trl](https://github.com/huggingface/trl)
-4. 🗣 Commented on [#33](https://github.com/Jiayi-Pan/TinyZero/issues/33#issuecomment-2628998506) in [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero)
-5. 🗣 Commented on [#6978](https://github.com/microsoft/DeepSpeed/issues/6978#issuecomment-2627883696) in [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
+1. ❗ Opened issue [#2756](https://github.com/huggingface/trl/issues/2756) in [huggingface/trl](https://github.com/huggingface/trl)
+2. 🗣 Commented on [#2751](https://github.com/huggingface/trl/issues/2751#issuecomment-2631519903) in [huggingface/trl](https://github.com/huggingface/trl)
+3. 🗣 Commented on [#2744](https://github.com/huggingface/trl/issues/2744#issuecomment-2629716199) in [huggingface/trl](https://github.com/huggingface/trl)
+4. 🗣 Commented on [#2719](https://github.com/huggingface/trl/issues/2719#issuecomment-2629074382) in [huggingface/trl](https://github.com/huggingface/trl)
+5. 🗣 Commented on [#33](https://github.com/Jiayi-Pan/TinyZero/issues/33#issuecomment-2628998506) in [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 <!--END_SECTION:activity-->
 
 <!--
