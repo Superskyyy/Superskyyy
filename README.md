@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3354](https://github.com/huggingface/accelerate/issues/3354) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
-2. 🗣 Commented on [#3354](https://github.com/huggingface/accelerate/issues/3354#issuecomment-2632722579) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
-3. 🗣 Commented on [#2161](https://github.com/huggingface/accelerate/issues/2161#issuecomment-2632721511) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
-4. 🗣 Commented on [#2555](https://github.com/huggingface/trl/issues/2555#issuecomment-2632515512) in [huggingface/trl](https://github.com/huggingface/trl)
-5. 🗣 Commented on [#777](https://github.com/flashinfer-ai/flashinfer/issues/777#issuecomment-2632481584) in [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer)
+1. 🗣 Commented on [#2759](https://github.com/huggingface/trl/issues/2759#issuecomment-2634095680) in [huggingface/trl](https://github.com/huggingface/trl)
+2. 🔒 Closed issue [#3354](https://github.com/huggingface/accelerate/issues/3354) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
+3. 🗣 Commented on [#3354](https://github.com/huggingface/accelerate/issues/3354#issuecomment-2632722579) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
+4. 🗣 Commented on [#2161](https://github.com/huggingface/accelerate/issues/2161#issuecomment-2632721511) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
+5. 🗣 Commented on [#2555](https://github.com/huggingface/trl/issues/2555#issuecomment-2632515512) in [huggingface/trl](https://github.com/huggingface/trl)
 <!--END_SECTION:activity-->
 
 <!--
