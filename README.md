@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2763](https://github.com/huggingface/trl/pull/2763#issuecomment-2635035456) in [huggingface/trl](https://github.com/huggingface/trl)
-2. 🗣 Commented on [#2753](https://github.com/huggingface/trl/issues/2753#issuecomment-2634967558) in [huggingface/trl](https://github.com/huggingface/trl)
-3. 🗣 Commented on [#2753](https://github.com/huggingface/trl/issues/2753#issuecomment-2634624563) in [huggingface/trl](https://github.com/huggingface/trl)
-4. 🗣 Commented on [#2759](https://github.com/huggingface/trl/issues/2759#issuecomment-2634095680) in [huggingface/trl](https://github.com/huggingface/trl)
-5. 🔒 Closed issue [#3354](https://github.com/huggingface/accelerate/issues/3354) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
+1. 🗣 Commented on [#2773](https://github.com/huggingface/trl/pull/2773#issuecomment-2638322449) in [huggingface/trl](https://github.com/huggingface/trl)
+2. 🗣 Commented on [#2737](https://github.com/huggingface/trl/issues/2737#issuecomment-2635781677) in [huggingface/trl](https://github.com/huggingface/trl)
+3. 🗣 Commented on [#2754](https://github.com/huggingface/trl/issues/2754#issuecomment-2635697436) in [huggingface/trl](https://github.com/huggingface/trl)
+4. 🗣 Commented on [#2763](https://github.com/huggingface/trl/pull/2763#issuecomment-2635035456) in [huggingface/trl](https://github.com/huggingface/trl)
+5. 🗣 Commented on [#2753](https://github.com/huggingface/trl/issues/2753#issuecomment-2634967558) in [huggingface/trl](https://github.com/huggingface/trl)
 <!--END_SECTION:activity-->
 
 <!--
