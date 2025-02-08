@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3361](https://github.com/huggingface/accelerate/pull/3361#issuecomment-2641996957) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
-2. 🗣 Commented on [#3361](https://github.com/huggingface/accelerate/pull/3361#issuecomment-2641988227) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
-3. 🗣 Commented on [#3360](https://github.com/huggingface/accelerate/issues/3360#issuecomment-2641987340) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
-4. 🗣 Commented on [#2788](https://github.com/huggingface/trl/issues/2788#issuecomment-2641950148) in [huggingface/trl](https://github.com/huggingface/trl)
-5. 🗣 Commented on [#2792](https://github.com/huggingface/trl/issues/2792#issuecomment-2641949084) in [huggingface/trl](https://github.com/huggingface/trl)
+1. 🗣 Commented on [#2764](https://github.com/huggingface/trl/issues/2764#issuecomment-2643034586) in [huggingface/trl](https://github.com/huggingface/trl)
+2. 🗣 Commented on [#3361](https://github.com/huggingface/accelerate/pull/3361#issuecomment-2641996957) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
+3. 🗣 Commented on [#3361](https://github.com/huggingface/accelerate/pull/3361#issuecomment-2641988227) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
+4. 🗣 Commented on [#3360](https://github.com/huggingface/accelerate/issues/3360#issuecomment-2641987340) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
+5. 🗣 Commented on [#2788](https://github.com/huggingface/trl/issues/2788#issuecomment-2641950148) in [huggingface/trl](https://github.com/huggingface/trl)
 <!--END_SECTION:activity-->
 
 <!--
