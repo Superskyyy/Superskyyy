@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2836](https://github.com/huggingface/trl/pull/2836#issuecomment-2653792186) in [huggingface/trl](https://github.com/huggingface/trl)
-2. ❗ Opened issue [#1270](https://github.com/devcontainers/features/issues/1270) in [devcontainers/features](https://github.com/devcontainers/features)
-3. 🗣 Commented on [#2788](https://github.com/huggingface/trl/issues/2788#issuecomment-2647352474) in [huggingface/trl](https://github.com/huggingface/trl)
-4. 🗣 Commented on [#2813](https://github.com/huggingface/trl/issues/2813#issuecomment-2647343194) in [huggingface/trl](https://github.com/huggingface/trl)
-5. 🗣 Commented on [#2814](https://github.com/huggingface/trl/issues/2814#issuecomment-2647134940) in [huggingface/trl](https://github.com/huggingface/trl)
+1. 🗣 Commented on [#2753](https://github.com/huggingface/trl/issues/2753#issuecomment-2660331968) in [huggingface/trl](https://github.com/huggingface/trl)
+2. 🗣 Commented on [#2836](https://github.com/huggingface/trl/pull/2836#issuecomment-2653792186) in [huggingface/trl](https://github.com/huggingface/trl)
+3. ❗ Opened issue [#1270](https://github.com/devcontainers/features/issues/1270) in [devcontainers/features](https://github.com/devcontainers/features)
+4. 🗣 Commented on [#2788](https://github.com/huggingface/trl/issues/2788#issuecomment-2647352474) in [huggingface/trl](https://github.com/huggingface/trl)
+5. 🗣 Commented on [#2813](https://github.com/huggingface/trl/issues/2813#issuecomment-2647343194) in [huggingface/trl](https://github.com/huggingface/trl)
 <!--END_SECTION:activity-->
 
 <!--
