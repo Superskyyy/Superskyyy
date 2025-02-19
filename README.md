@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2840](https://github.com/huggingface/trl/issues/2840#issuecomment-2664603866) in [huggingface/trl](https://github.com/huggingface/trl)
-2. 🗣 Commented on [#2877](https://github.com/huggingface/trl/issues/2877#issuecomment-2664557871) in [huggingface/trl](https://github.com/huggingface/trl)
-3. 🗣 Commented on [#2876](https://github.com/huggingface/trl/issues/2876#issuecomment-2664556012) in [huggingface/trl](https://github.com/huggingface/trl)
-4. 🗣 Commented on [#1448](https://github.com/confluentinc/confluent-kafka-python/pull/1448#issuecomment-2661639936) in [confluentinc/confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python)
-5. 🗣 Commented on [#2753](https://github.com/huggingface/trl/issues/2753#issuecomment-2660331968) in [huggingface/trl](https://github.com/huggingface/trl)
+1. 🗣 Commented on [#2669](https://github.com/huggingface/trl/pull/2669#issuecomment-2666079819) in [huggingface/trl](https://github.com/huggingface/trl)
+2. 🗣 Commented on [#2840](https://github.com/huggingface/trl/issues/2840#issuecomment-2664603866) in [huggingface/trl](https://github.com/huggingface/trl)
+3. 🗣 Commented on [#2877](https://github.com/huggingface/trl/issues/2877#issuecomment-2664557871) in [huggingface/trl](https://github.com/huggingface/trl)
+4. 🗣 Commented on [#2876](https://github.com/huggingface/trl/issues/2876#issuecomment-2664556012) in [huggingface/trl](https://github.com/huggingface/trl)
+5. 🗣 Commented on [#1448](https://github.com/confluentinc/confluent-kafka-python/pull/1448#issuecomment-2661639936) in [confluentinc/confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python)
 <!--END_SECTION:activity-->
 
 <!--
