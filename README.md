@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1635](https://github.com/huggingface/chat-ui/issues/1635#issuecomment-2670393268) in [huggingface/chat-ui](https://github.com/huggingface/chat-ui)
-2. ❗ Opened issue [#3717](https://github.com/sgl-project/sglang/issues/3717) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-3. 🗣 Commented on [#2754](https://github.com/huggingface/trl/issues/2754#issuecomment-2670005894) in [huggingface/trl](https://github.com/huggingface/trl)
-4. 🗣 Commented on [#2669](https://github.com/huggingface/trl/pull/2669#issuecomment-2666079819) in [huggingface/trl](https://github.com/huggingface/trl)
-5. 🗣 Commented on [#2840](https://github.com/huggingface/trl/issues/2840#issuecomment-2664603866) in [huggingface/trl](https://github.com/huggingface/trl)
+1. 🗣 Commented on [#3709](https://github.com/sgl-project/sglang/pull/3709#issuecomment-2671884199) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+2. 🗣 Commented on [#1635](https://github.com/huggingface/chat-ui/issues/1635#issuecomment-2670393268) in [huggingface/chat-ui](https://github.com/huggingface/chat-ui)
+3. ❗ Opened issue [#3717](https://github.com/sgl-project/sglang/issues/3717) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+4. 🗣 Commented on [#2754](https://github.com/huggingface/trl/issues/2754#issuecomment-2670005894) in [huggingface/trl](https://github.com/huggingface/trl)
+5. 🗣 Commented on [#2669](https://github.com/huggingface/trl/pull/2669#issuecomment-2666079819) in [huggingface/trl](https://github.com/huggingface/trl)
 <!--END_SECTION:activity-->
 
 <!--
