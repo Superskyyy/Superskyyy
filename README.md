@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/PGCodeLLM/ExecutionAgent/pull/1) in [PGCodeLLM/ExecutionAgent](https://github.com/PGCodeLLM/ExecutionAgent)
-2. 🗣 Commented on [#3709](https://github.com/sgl-project/sglang/pull/3709#issuecomment-2671884199) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-3. 🗣 Commented on [#1635](https://github.com/huggingface/chat-ui/issues/1635#issuecomment-2670393268) in [huggingface/chat-ui](https://github.com/huggingface/chat-ui)
-4. ❗ Opened issue [#3717](https://github.com/sgl-project/sglang/issues/3717) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-5. 🗣 Commented on [#2754](https://github.com/huggingface/trl/issues/2754#issuecomment-2670005894) in [huggingface/trl](https://github.com/huggingface/trl)
+1. 🗣 Commented on [#9](https://github.com/deepseek-ai/DeepSeek-R1/issues/9#issuecomment-2673485914) in [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+2. 🗣 Commented on [#693](https://github.com/browser-use/browser-use/issues/693#issuecomment-2673478471) in [browser-use/browser-use](https://github.com/browser-use/browser-use)
+3. 💪 Opened PR [#1](https://github.com/PGCodeLLM/ExecutionAgent/pull/1) in [PGCodeLLM/ExecutionAgent](https://github.com/PGCodeLLM/ExecutionAgent)
+4. 🗣 Commented on [#3709](https://github.com/sgl-project/sglang/pull/3709#issuecomment-2671884199) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+5. 🗣 Commented on [#1635](https://github.com/huggingface/chat-ui/issues/1635#issuecomment-2670393268) in [huggingface/chat-ui](https://github.com/huggingface/chat-ui)
 <!--END_SECTION:activity-->
 
 <!--
