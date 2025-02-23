@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3781](https://github.com/sgl-project/sglang/issues/3781#issuecomment-2676275158) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-2. 🗣 Commented on [#3637](https://github.com/sgl-project/sglang/issues/3637#issuecomment-2676015475) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-3. 🗣 Commented on [#3637](https://github.com/sgl-project/sglang/issues/3637#issuecomment-2676014767) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-4. 🗣 Commented on [#467](https://github.com/deepseek-ai/DeepSeek-R1/issues/467#issuecomment-2675798999) in [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
-5. 🗣 Commented on [#469](https://github.com/deepseek-ai/DeepSeek-R1/issues/469#issuecomment-2675798904) in [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+1. 🗣 Commented on [#3637](https://github.com/sgl-project/sglang/issues/3637#issuecomment-2676465658) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+2. 🗣 Commented on [#3781](https://github.com/sgl-project/sglang/issues/3781#issuecomment-2676275158) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+3. 🗣 Commented on [#3637](https://github.com/sgl-project/sglang/issues/3637#issuecomment-2676015475) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+4. 🗣 Commented on [#3637](https://github.com/sgl-project/sglang/issues/3637#issuecomment-2676014767) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+5. 🗣 Commented on [#467](https://github.com/deepseek-ai/DeepSeek-R1/issues/467#issuecomment-2675798999) in [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 <!--END_SECTION:activity-->
 
 <!--
