@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3797](https://github.com/sgl-project/sglang/issues/3797#issuecomment-2677438019) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-2. 🗣 Commented on [#3797](https://github.com/sgl-project/sglang/issues/3797#issuecomment-2677415220) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-3. 🗣 Commented on [#3797](https://github.com/sgl-project/sglang/issues/3797#issuecomment-2677406247) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-4. ❗ Opened issue [#3797](https://github.com/sgl-project/sglang/issues/3797) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-5. ❗ Opened issue [#26](https://github.com/langchain-ai/langgraph-supervisor/issues/26) in [langchain-ai/langgraph-supervisor](https://github.com/langchain-ai/langgraph-supervisor)
+1. 🗣 Commented on [#925](https://github.com/QwenLM/Qwen2.5/issues/925#issuecomment-2680404960) in [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5)
+2. 🗣 Commented on [#3797](https://github.com/sgl-project/sglang/issues/3797#issuecomment-2677438019) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+3. 🗣 Commented on [#3797](https://github.com/sgl-project/sglang/issues/3797#issuecomment-2677415220) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+4. 🗣 Commented on [#3797](https://github.com/sgl-project/sglang/issues/3797#issuecomment-2677406247) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+5. ❗ Opened issue [#3797](https://github.com/sgl-project/sglang/issues/3797) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
 <!--END_SECTION:activity-->
 
 <!--
