@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14429](https://github.com/vllm-project/vllm/issues/14429#issuecomment-2706858978) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-2. 🗣 Commented on [#3797](https://github.com/sgl-project/sglang/issues/3797#issuecomment-2704265402) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-3. 🔒 Closed issue [#339](https://github.com/SWE-bench/SWE-bench/issues/339) in [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench)
-4. 🗣 Commented on [#339](https://github.com/SWE-bench/SWE-bench/issues/339#issuecomment-2686485135) in [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench)
-5. 🗣 Commented on [#339](https://github.com/SWE-bench/SWE-bench/issues/339#issuecomment-2686482396) in [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench)
+1. 🗣 Commented on [#14446](https://github.com/vllm-project/vllm/issues/14446#issuecomment-2707976256) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+2. ❗ Opened issue [#14472](https://github.com/vllm-project/vllm/issues/14472) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+3. 🗣 Commented on [#14429](https://github.com/vllm-project/vllm/issues/14429#issuecomment-2707927706) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+4. 🗣 Commented on [#14429](https://github.com/vllm-project/vllm/issues/14429#issuecomment-2706858978) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+5. 🗣 Commented on [#3797](https://github.com/sgl-project/sglang/issues/3797#issuecomment-2704265402) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
 <!--END_SECTION:activity-->
 
 <!--
