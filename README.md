@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#793](https://github.com/volcengine/verl/pull/793#issuecomment-2759859325) in [volcengine/verl](https://github.com/volcengine/verl)
-2. 💪 Opened PR [#793](https://github.com/volcengine/verl/pull/793) in [volcengine/verl](https://github.com/volcengine/verl)
-3. 🗣 Commented on [#35](https://github.com/langchain-ai/langgraph-supervisor-py/issues/35#issuecomment-2726128968) in [langchain-ai/langgraph-supervisor-py](https://github.com/langchain-ai/langgraph-supervisor-py)
-4. ❗ Opened issue [#14588](https://github.com/vllm-project/vllm/issues/14588) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-5. 🗣 Commented on [#14446](https://github.com/vllm-project/vllm/issues/14446#issuecomment-2707976256) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+1. 🗣 Commented on [#793](https://github.com/volcengine/verl/pull/793#issuecomment-2764264324) in [volcengine/verl](https://github.com/volcengine/verl)
+2. 🗣 Commented on [#793](https://github.com/volcengine/verl/pull/793#issuecomment-2764241942) in [volcengine/verl](https://github.com/volcengine/verl)
+3. ❌ Closed PR [#793](https://github.com/volcengine/verl/pull/793) in [volcengine/verl](https://github.com/volcengine/verl)
+4. 🗣 Commented on [#793](https://github.com/volcengine/verl/pull/793#issuecomment-2759859325) in [volcengine/verl](https://github.com/volcengine/verl)
+5. 💪 Opened PR [#793](https://github.com/volcengine/verl/pull/793) in [volcengine/verl](https://github.com/volcengine/verl)
 <!--END_SECTION:activity-->
 
 <!--
