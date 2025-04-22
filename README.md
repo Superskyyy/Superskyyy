@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/agentica-project/rllm/issues/102#issuecomment-2817710430) in [agentica-project/rllm](https://github.com/agentica-project/rllm)
-2. 💪 Opened PR [#1](https://github.com/PGCodeLLM/rllm/pull/1) in [PGCodeLLM/rllm](https://github.com/PGCodeLLM/rllm)
-3. ❗ Opened issue [#102](https://github.com/agentica-project/rllm/issues/102) in [agentica-project/rllm](https://github.com/agentica-project/rllm)
-4. ❗ Opened issue [#1043](https://github.com/volcengine/verl/issues/1043) in [volcengine/verl](https://github.com/volcengine/verl)
-5. ❌ Closed PR [#46424](https://github.com/ray-project/ray/pull/46424) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 🗣 Commented on [#1167](https://github.com/volcengine/verl/issues/1167#issuecomment-2820067106) in [volcengine/verl](https://github.com/volcengine/verl)
+2. 🗣 Commented on [#102](https://github.com/agentica-project/rllm/issues/102#issuecomment-2817710430) in [agentica-project/rllm](https://github.com/agentica-project/rllm)
+3. 💪 Opened PR [#1](https://github.com/PGCodeLLM/rllm/pull/1) in [PGCodeLLM/rllm](https://github.com/PGCodeLLM/rllm)
+4. ❗ Opened issue [#102](https://github.com/agentica-project/rllm/issues/102) in [agentica-project/rllm](https://github.com/agentica-project/rllm)
+5. ❗ Opened issue [#1043](https://github.com/volcengine/verl/issues/1043) in [volcengine/verl](https://github.com/volcengine/verl)
 <!--END_SECTION:activity-->
 
 <!--
