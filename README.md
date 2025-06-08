@@ -44,7 +44,7 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1167](https://github.com/volcengine/verl/issues/1167#issuecomment-2820067106) in [volcengine/verl](https://github.com/volcengine/verl)
+1. ❗ Opened issue [#5920](https://github.com/skypilot-org/skypilot/issues/5920) in [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)
 2. 🗣 Commented on [#102](https://github.com/agentica-project/rllm/issues/102#issuecomment-2817710430) in [agentica-project/rllm](https://github.com/agentica-project/rllm)
 3. 💪 Opened PR [#1](https://github.com/PGCodeLLM/rllm/pull/1) in [PGCodeLLM/rllm](https://github.com/PGCodeLLM/rllm)
 4. ❗ Opened issue [#102](https://github.com/agentica-project/rllm/issues/102) in [agentica-project/rllm](https://github.com/agentica-project/rllm)
