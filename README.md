@@ -44,8 +44,8 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#826](https://github.com/anthropics/claude-code/issues/826#issuecomment-3358965837) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-2. ❗ Opened issue [#5920](https://github.com/skypilot-org/skypilot/issues/5920) in [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)
+1. 🗣 Commented on [#3806](https://github.com/volcengine/verl/issues/3806#issuecomment-3419065693) in [volcengine/verl](https://github.com/volcengine/verl)
+2. 🗣 Commented on [#826](https://github.com/anthropics/claude-code/issues/826#issuecomment-3358965837) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 3. 💪 Opened PR [#1](https://github.com/PGCodeLLM/rllm/pull/1) in [PGCodeLLM/rllm](https://github.com/PGCodeLLM/rllm)
 4. ❗ Opened issue [#102](https://github.com/agentica-project/rllm/issues/102) in [agentica-project/rllm](https://github.com/agentica-project/rllm)
 5. ❗ Opened issue [#1043](https://github.com/volcengine/verl/issues/1043) in [volcengine/verl](https://github.com/volcengine/verl)
