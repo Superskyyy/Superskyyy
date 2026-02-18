@@ -44,8 +44,8 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19061](https://github.com/BerriAI/litellm/issues/19061#issuecomment-3916848475) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
-2. 🗣 Commented on [#826](https://github.com/anthropics/claude-code/issues/826#issuecomment-3358965837) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+1. ❗ Opened issue [#4](https://github.com/ucsb-mlsec/terminal-bench-env/issues/4) in [ucsb-mlsec/terminal-bench-env](https://github.com/ucsb-mlsec/terminal-bench-env)
+2. 🗣 Commented on [#19061](https://github.com/BerriAI/litellm/issues/19061#issuecomment-3916848475) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
 3. 💪 Opened PR [#1](https://github.com/PGCodeLLM/rllm/pull/1) in [PGCodeLLM/rllm](https://github.com/PGCodeLLM/rllm)
 4. ❗ Opened issue [#102](https://github.com/agentica-project/rllm/issues/102) in [agentica-project/rllm](https://github.com/agentica-project/rllm)
 5. ❗ Opened issue [#1043](https://github.com/volcengine/verl/issues/1043) in [volcengine/verl](https://github.com/volcengine/verl)
