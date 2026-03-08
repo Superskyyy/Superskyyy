@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#27210](https://github.com/anthropics/claude-code/issues/27210) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-2. ❗ Opened issue [#27210](https://github.com/anthropics/claude-code/issues/27210) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-3. ❗ Opened issue [#4](https://github.com/ucsb-mlsec/terminal-bench-env/issues/4) in [ucsb-mlsec/terminal-bench-env](https://github.com/ucsb-mlsec/terminal-bench-env)
-4. 🗣 Commented on [#19061](https://github.com/BerriAI/litellm/issues/19061#issuecomment-3916848475) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
-5. ❗ Opened issue [#1043](https://github.com/volcengine/verl/issues/1043) in [volcengine/verl](https://github.com/volcengine/verl)
+1. 🗣 Commented on [#1872](https://github.com/NVIDIA/Megatron-LM/issues/1872#issuecomment-4018315312) in [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
+2. ℹ️ Labeled issue [#27210](https://github.com/anthropics/claude-code/issues/27210) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+3. ❗ Opened issue [#27210](https://github.com/anthropics/claude-code/issues/27210) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+4. ❗ Opened issue [#4](https://github.com/ucsb-mlsec/terminal-bench-env/issues/4) in [ucsb-mlsec/terminal-bench-env](https://github.com/ucsb-mlsec/terminal-bench-env)
+5. 🗣 Commented on [#19061](https://github.com/BerriAI/litellm/issues/19061#issuecomment-3916848475) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
 <!--END_SECTION:activity-->
 
 <!--
