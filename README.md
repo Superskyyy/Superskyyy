@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#8240](https://github.com/modelscope/ms-swift/issues/8240) in [modelscope/ms-swift](https://github.com/modelscope/ms-swift)
-2. ❗ Opened issue [#8240](https://github.com/modelscope/ms-swift/issues/8240) in [modelscope/ms-swift](https://github.com/modelscope/ms-swift)
-3. 🗣 Commented on [#1872](https://github.com/NVIDIA/Megatron-LM/issues/1872#issuecomment-4018315312) in [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
-4. ℹ️ Labeled issue [#27210](https://github.com/anthropics/claude-code/issues/27210) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-5. ❗ Opened issue [#27210](https://github.com/anthropics/claude-code/issues/27210) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+1. 🗣 Commented on [#16952](https://github.com/sgl-project/sglang/issues/16952#issuecomment-4027995116) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+2. ℹ️ Labeled issue [#8240](https://github.com/modelscope/ms-swift/issues/8240) in [modelscope/ms-swift](https://github.com/modelscope/ms-swift)
+3. ❗ Opened issue [#8240](https://github.com/modelscope/ms-swift/issues/8240) in [modelscope/ms-swift](https://github.com/modelscope/ms-swift)
+4. 🗣 Commented on [#1872](https://github.com/NVIDIA/Megatron-LM/issues/1872#issuecomment-4018315312) in [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
+5. ℹ️ Labeled issue [#27210](https://github.com/anthropics/claude-code/issues/27210) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 <!--END_SECTION:activity-->
 
 <!--
