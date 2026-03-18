@@ -44,11 +44,11 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#681](https://github.com/THUDM/slime/pull/681#issuecomment-4067707537) in [THUDM/slime](https://github.com/THUDM/slime)
-2. ❌ Closed PR [#437](https://github.com/rllm-org/rllm/pull/437) in [rllm-org/rllm](https://github.com/rllm-org/rllm)
-3. 💪 Opened PR [#437](https://github.com/rllm-org/rllm/pull/437) in [rllm-org/rllm](https://github.com/rllm-org/rllm)
-4. 🗣 Commented on [#16952](https://github.com/sgl-project/sglang/issues/16952#issuecomment-4027995116) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-5. ℹ️ Labeled issue [#8240](https://github.com/modelscope/ms-swift/issues/8240) in [modelscope/ms-swift](https://github.com/modelscope/ms-swift)
+1. 🗣 Commented on [#18378](https://github.com/sgl-project/sglang/issues/18378#issuecomment-4079580548) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+2. 🗣 Commented on [#681](https://github.com/THUDM/slime/pull/681#issuecomment-4067707537) in [THUDM/slime](https://github.com/THUDM/slime)
+3. ❌ Closed PR [#437](https://github.com/rllm-org/rllm/pull/437) in [rllm-org/rllm](https://github.com/rllm-org/rllm)
+4. 💪 Opened PR [#437](https://github.com/rllm-org/rllm/pull/437) in [rllm-org/rllm](https://github.com/rllm-org/rllm)
+5. 🗣 Commented on [#16952](https://github.com/sgl-project/sglang/issues/16952#issuecomment-4027995116) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
 <!--END_SECTION:activity-->
 
 <!--
