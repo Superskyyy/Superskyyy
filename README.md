@@ -44,8 +44,8 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/datacurve-ai/deep-swe/issues/3) in [datacurve-ai/deep-swe](https://github.com/datacurve-ai/deep-swe)
-2. 🗣 Commented on [#1506](https://github.com/Wei-Shaw/sub2api/issues/1506#issuecomment-4256081372) in [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
+1. 🗣 Commented on [#3](https://github.com/datacurve-ai/deep-swe/issues/3#issuecomment-4579463968) in [datacurve-ai/deep-swe](https://github.com/datacurve-ai/deep-swe)
+2. ❗ Opened issue [#3](https://github.com/datacurve-ai/deep-swe/issues/3) in [datacurve-ai/deep-swe](https://github.com/datacurve-ai/deep-swe)
 3. 🗣 Commented on [#1076](https://github.com/THUDM/slime/issues/1076#issuecomment-4089733478) in [THUDM/slime](https://github.com/THUDM/slime)
 4. 🗣 Commented on [#18378](https://github.com/sgl-project/sglang/issues/18378#issuecomment-4079580548) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
 5. 💪 Opened PR [#437](https://github.com/rllm-org/rllm/pull/437) in [rllm-org/rllm](https://github.com/rllm-org/rllm)
