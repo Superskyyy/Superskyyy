@@ -44,8 +44,8 @@ Upcoming new tools available to the SkyWalking community:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/alibaba/open-code-review/pull/29#issuecomment-4625177036) in [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
-2. 🗣 Commented on [#3](https://github.com/datacurve-ai/deep-swe/issues/3#issuecomment-4579463968) in [datacurve-ai/deep-swe](https://github.com/datacurve-ai/deep-swe)
+1. ❗ Opened issue [#1](https://github.com/Superskyyy/mcore-bridge/issues/1) in [Superskyyy/mcore-bridge](https://github.com/Superskyyy/mcore-bridge)
+2. 🗣 Commented on [#29](https://github.com/alibaba/open-code-review/pull/29#issuecomment-4625177036) in [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
 3. ❗ Opened issue [#3](https://github.com/datacurve-ai/deep-swe/issues/3) in [datacurve-ai/deep-swe](https://github.com/datacurve-ai/deep-swe)
 4. 🗣 Commented on [#18378](https://github.com/sgl-project/sglang/issues/18378#issuecomment-4079580548) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
 5. 💪 Opened PR [#437](https://github.com/rllm-org/rllm/pull/437) in [rllm-org/rllm](https://github.com/rllm-org/rllm)
